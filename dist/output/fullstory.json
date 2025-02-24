@@ -1,0 +1,1536 @@
+{"widgets": [
+    {
+        "position": {
+            "desktop": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "mobile": [
+                1.03,
+                2,
+                1,
+                0
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            1,
+            0,
+            0
+        ],
+        "id": "hero-card-1739518858961",
+        "type": "HERO_CARD",
+        "size": "heroExtraLarge",
+        "data": {
+            "coverPic": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739530935371-pexels-rdne-8474471.jpg",
+            "profilePic": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739518858674-fullstory%20dp.png",
+            "name": "Hi, I'm Charlie",
+            "jobTitle": "Space Station Manager",
+            "company": "",
+            "companydetail": {
+                "companyName": "Axiom Space",
+                "companyLogo": "https://cdn.brandfetch.io/axiomspace.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7"
+            },
+            "description": "Steering spaceships is kind of my thing.",
+            "heroButtonLink": "https://calendly.com/alien",
+            "heroButtonName": "Let's talk",
+            "phoneNumber": "19999999999",
+            "email": "charlie@space.com"
+        },
+        "_id": "67aef38b0a5023de6dfd9193"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                0,
+                0
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                2
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            0,
+            0
+        ],
+        "id": "rich-text-card1739518992737",
+        "type": "RICH_TEXT_CARD",
+        "size": "large",
+        "data": {
+            "rich_text_content": "<p style=\"text-align: left\"><span style=\"font-size: 24px\"><strong>ABOUT</strong></span></p><p style=\"text-align: left\"><span style=\"font-size: 18px\">Born in the zero-gravity corridors of deep space, I keep the cosmic wheels turning at Axiom Space. As a Space Station Manager, I ensure <strong>smooth docking, oxygen flows, and that nobody accidentally floats out of the airlock. </strong></span></p><p style=\"text-align: left\"><span style=\"font-size: 18px\">From coordinating intergalactic meetings to troubleshooting rogue AI, my job is a mix of science, logistics, and the occasional spacewalk. Passionate about innovation and extraterrestrial hospitality, I make sure every astronaut, visitor, and curious alien feels at home. When I’m not managing orbital affairs, I’m decoding wormhole theories and perfecting my zero-g coffee brewing technique. 🚀✨</span></p>",
+            "rich_text_content_bg": "#EEE"
+        },
+        "_id": "67aef4100a5023de6dfd91ed"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                9
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                5
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            9
+        ],
+        "id": "location-card-1739519550833",
+        "type": "LOCATION_CARD",
+        "size": "large",
+        "data": {
+            "location": {
+                "locationName": "Papoose Mountain",
+                "latitude": 37.23902438422188,
+                "longitude": -115.83629312037549,
+                "zoom": 3
+            },
+            "title": "Come visit me at Area 51"
+        },
+        "_id": "67aef63e0a5023de6dfd923e"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                0,
+                6
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                10
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            0,
+            6
+        ],
+        "id": "text-card-1739519769583",
+        "type": "TEXT_BUBBLE_CARD",
+        "size": "large",
+        "data": {
+            "title": "I can help with",
+            "description": "",
+            "hobbies": [
+                {
+                    "id": 1739519691553,
+                    "arrayName": "🚀 Orbital Operations",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739519696946,
+                    "arrayName": "🛰 Docking & Navigation",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739519703367,
+                    "arrayName": "🤖 AI & Robotics Management",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739519712722,
+                    "arrayName": "🔧 Zero-G Maintenance",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739519717417,
+                    "arrayName": "🌍 Interplanetary Diplomacy",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739519723482,
+                    "arrayName": "☕ Zero-G Coffee Brewing",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739519729301,
+                    "arrayName": "📡 Communication Systems",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739519768096,
+                    "arrayName": "🧪 Life Support & Biohabitat Mgt,",
+                    "arrayDescription": ""
+                }
+            ],
+            "arrayItemName": "",
+            "arrayItemDescription": ""
+        },
+        "_id": "67aef7190a5023de6dfd92d9"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                1,
+                0,
+                4
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                13
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            1,
+            0,
+            4
+        ],
+        "id": "market-card-1739519959573",
+        "type": "MARKET_CARD",
+        "size": "small",
+        "data": {
+            "title": "Domain expertise",
+            "description": "",
+            "marketStats": [
+                {
+                    "id": "BsFillRocketTakeoffFill",
+                    "arrayName": "Aerospace & Space Tech",
+                    "arrayLogo": "BsFillRocketTakeoffFill"
+                },
+                {
+                    "id": "FaBroadcastTower",
+                    "arrayName": "Telecommunications",
+                    "arrayLogo": "FaBroadcastTower"
+                },
+                {
+                    "id": "FaMountainSun",
+                    "arrayName": "Climate Science & Environmental Services",
+                    "arrayLogo": "FaMountainSun"
+                },
+                {
+                    "id": "FaIndustry",
+                    "arrayName": "Industrials, Manufacturing & Consumer Goods",
+                    "arrayLogo": "FaIndustry"
+                },
+                {
+                    "id": "FaBriefcaseMedical",
+                    "arrayName": "Healthtech",
+                    "arrayLogo": "FaBriefcaseMedical"
+                },
+                {
+                    "id": "FaCar",
+                    "arrayName": "Automotive",
+                    "arrayLogo": "FaCar"
+                }
+            ]
+        },
+        "_id": "67aef7d70a5023de6dfd9358"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                4
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                18
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            4
+        ],
+        "id": "ts-card-1739521133355",
+        "type": "TECH_STACK_CARD",
+        "size": "large",
+        "data": {
+            "title": "Tech I'm passionate about",
+            "description": "",
+            "techStackLogo": "",
+            "techStack": [
+                {
+                    "id": 1739534173435,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Cosmos DB.svg",
+                    "techName": "Cosmos DB"
+                },
+                {
+                    "id": 1739534198744,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Crystal.svg",
+                    "techName": "Crystal",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534218995,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Dart.svg",
+                    "techName": "Dart",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534277943,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Astro.svg",
+                    "techName": "Astro",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534300614,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/CoffeeScript.svg",
+                    "techName": "CoffeeScript",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534316744,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Terraform.svg",
+                    "techName": "Terraform",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534341686,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Pulsar.svg",
+                    "techName": "Pulsar",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534376478,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Maya.svg",
+                    "techName": "Maya",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534396431,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/TeX.svg",
+                    "techName": "TeX",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534414155,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Beats.svg",
+                    "techName": "Beats",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534424048,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Ballerina.svg",
+                    "techName": "Ballerina",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534440124,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/CakePHP.svg",
+                    "techName": "CakePHP"
+                },
+                {
+                    "id": 1739534470534,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Composer.svg",
+                    "techName": "Composer",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534488978,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Ant Design.svg",
+                    "techName": "Ant Design",
+                    "techDescription": ""
+                },
+                {
+                    "id": 1739534513538,
+                    "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/CLion.svg",
+                    "techName": "CLion",
+                    "techDescription": ""
+                }
+            ],
+            "techStackItemLogo": null,
+            "techStackItemName": "",
+            "techDescription": ""
+        },
+        "_id": "67aefc6d90255ca44b5baaa0"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                4,
+                0,
+                8
+            ],
+            "mobile": [
+                1,
+                4,
+                0,
+                22
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            4,
+            0,
+            8
+        ],
+        "id": "section-title-1739521180635",
+        "type": "SECTION_TITLE_CARD",
+        "size": "sectionTitle",
+        "data": {
+            "title": "🤝 Let's connect",
+            "isDefault": false
+        },
+        "_id": "67aefc9c90255ca44b5baae2"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                2,
+                2,
+                11
+            ],
+            "mobile": [
+                2,
+                2,
+                0,
+                23
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            2,
+            2,
+            11
+        ],
+        "id": "dp-card-1739521362895",
+        "type": "DIGITAL_PROFILE_CARD",
+        "size": "wide",
+        "data": {
+            "username": "username",
+            "profileLink": "",
+            "appId": "linkedIn"
+        },
+        "_id": "67aefd5b90255ca44b5babd3"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                0,
+                9
+            ],
+            "mobile": [
+                2,
+                2,
+                1,
+                25
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            0,
+            9
+        ],
+        "id": "dp-card-1739521781994",
+        "type": "DIGITAL_PROFILE_CARD",
+        "size": "large",
+        "data": {
+            "username": "username",
+            "profileLink": "",
+            "appId": "calendly"
+        },
+        "_id": "67aefef590255ca44b5bac96"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                4,
+                0,
+                13
+            ],
+            "mobile": [
+                1,
+                4,
+                0,
+                38
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            4,
+            0,
+            13
+        ],
+        "id": "section-title-1739521859486",
+        "type": "SECTION_TITLE_CARD",
+        "size": "sectionTitle",
+        "data": {
+            "title": "🛰️ About Axiom Space",
+            "isDefault": false
+        },
+        "_id": "67aeff4390255ca44b5bad72"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                0,
+                14
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                39
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            0,
+            14
+        ],
+        "id": "rich-text-card1739522231226",
+        "type": "RICH_TEXT_CARD",
+        "size": "large",
+        "data": {
+            "rich_text_content": "<p style=\"text-align: left\"><span style=\"font-size: 24px\"><strong>Leader in Space Infra</strong></span><br><br><span style=\"font-size: 18px\">Axiom Space is a pioneering space infrastructure company specializing in commercializing low Earth orbit. They provide end-to-end services for astronauts, research missions, and the development of private space stations. With a mission to create a thriving commercial space industry, Axiom Space is laying the foundation for human space exploration and permanent space habitation.</span></p><p style=\"text-align: left\"></p>",
+            "rich_text_content_bg": "#B2DFDB"
+        },
+        "_id": "67af00b790255ca44b5baeea"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                0,
+                16
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                44
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            0,
+            16
+        ],
+        "id": "location-card-1739522317144",
+        "type": "LOCATION_CARD",
+        "size": "large",
+        "data": {
+            "location": {
+                "locationName": "Axiom Space - Headquarters",
+                "latitude": 29.55591331,
+                "longitude": -95.11119968,
+                "zoom": 3
+            },
+            "title": "Headquartered in Houston"
+        },
+        "_id": "67af010d90255ca44b5bb3c5"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                14
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                47
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            14
+        ],
+        "id": "link-card-1739522423990",
+        "type": "LINK_CARD",
+        "size": "large",
+        "data": {
+            "link": "https://www.axiomspace.com/",
+            "title": "Axiom Space — World’s First Commercial Space Station",
+            "description": "Creating a thriving home in space that benefits every human, everywhere.",
+            "cardImageSource": "image_from_link",
+            "backgroundType": "solid",
+            "linkIconType": "link_fav_icon",
+            "linkFavIcon": "https://cdn.prod.website-files.com/6618f4b8b5c1b5cf8a47b8ef/661eb9a128e40db72aea97f1_660eae485b6b113c5599f06c_ax-favicon.png",
+            "cardImageUrl": "https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/6761f94d1b74000fa9879891_AxStation_OpenGraph.jpg"
+        },
+        "_id": "67af017890255ca44b5bb610"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                2,
+                2,
+                18
+            ],
+            "mobile": [
+                2,
+                2,
+                1,
+                50
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            2,
+            2,
+            18
+        ],
+        "id": "dp-card-1739522474929",
+        "type": "DIGITAL_PROFILE_CARD",
+        "size": "wide",
+        "data": {
+            "username": "",
+            "appId": "linkedIn",
+            "profileLink": "https://www.linkedin.com/company/axiom-space/"
+        },
+        "_id": "67af01ab90255ca44b5bb66e"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                2,
+                0,
+                18
+            ],
+            "mobile": [
+                2,
+                2,
+                1,
+                53
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            2,
+            0,
+            18
+        ],
+        "id": "dp-card-1739522514376",
+        "type": "DIGITAL_PROFILE_CARD",
+        "size": "wide",
+        "data": {
+            "username": "",
+            "appId": "twitter",
+            "profileLink": "https://x.com/Axiom_Space"
+        },
+        "_id": "67af01d290255ca44b5bb735"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                4,
+                0,
+                19
+            ],
+            "mobile": [
+                1,
+                4,
+                0,
+                56
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            4,
+            0,
+            19
+        ],
+        "id": "section-title-1739522573079",
+        "type": "SECTION_TITLE_CARD",
+        "size": "sectionTitle",
+        "data": {
+            "title": "Project links🔗 & PDF file 📄",
+            "isDefault": false
+        },
+        "_id": "67af020d90255ca44b5bb7e5"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                20
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                59
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            20
+        ],
+        "id": "upload-card-1739522767290",
+        "type": "UPLOAD_CARD",
+        "size": "large",
+        "data": {
+            "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739535463939-thambnail-1739535461497.png",
+            "frame": "squared",
+            "caption": "Galaxies through Space and Time, NASA.pdf",
+            "link": "",
+            "filePreviewUrl": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739535463626-Galaxies%20through%20Space%20and%20Time%2C%20NASA.pdf",
+            "isPdf": true
+        },
+        "_id": "67af02cf90255ca44b5bb958"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                0,
+                20
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                62
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            0,
+            20
+        ],
+        "id": "link-card-1739522867370",
+        "type": "LINK_CARD",
+        "size": "large",
+        "data": {
+            "link": "https://www.axiomspace.com/axiom-suit",
+            "title": "Axiom Suit — Axiom Space",
+            "description": "The Next-Generation Spacesuit",
+            "cardImageSource": "image_from_link",
+            "backgroundType": "solid",
+            "linkIconType": "link_fav_icon",
+            "linkFavIcon": "https://cdn.prod.website-files.com/6618f4b8b5c1b5cf8a47b8ef/661eb9a128e40db72aea97f1_660eae485b6b113c5599f06c_ax-favicon.png",
+            "cardImageUrl": "https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/67239b5ae7236d52aaa6d3c2_671fb31e0ed79c76c93e18ab_AxEMU_Prada_Spacesuit_Mockup_20241007_085_AxEdit.avif"
+        },
+        "_id": "67af033390255ca44b5bb9ce"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                4,
+                0,
+                23
+            ],
+            "mobile": [
+                1,
+                4,
+                0,
+                66
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            4,
+            0,
+            23
+        ],
+        "id": "section-title-1739522911349",
+        "type": "SECTION_TITLE_CARD",
+        "size": "sectionTitle",
+        "data": {
+            "title": "Outside of work",
+            "isDefault": false
+        },
+        "_id": "67af035f90255ca44b5bbf6a"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                1,
+                24
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                69
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            1,
+            24
+        ],
+        "id": "upload-card-1739523204916",
+        "type": "UPLOAD_CARD",
+        "size": "large",
+        "data": {
+            "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739535631467-8475047-hd_1920_1080_30fps.mp4",
+            "frame": "rounded",
+            "caption": "",
+            "link": "",
+            "filePreviewUrl": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739535631945-thambnail-1739535630131.png",
+            "isPdf": false
+        },
+        "_id": "67af048490255ca44b5bc119"
+    },
+    {
+        "position": {
+            "desktop": [
+                4,
+                1,
+                0,
+                24
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                72
+            ]
+        },
+        "widgetPositionConfig": [
+            4,
+            1,
+            0,
+            24
+        ],
+        "id": "upload-card-1739523222432",
+        "type": "UPLOAD_CARD",
+        "size": "tall",
+        "data": {
+            "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739523222145-pexels-rdne-8474736.jpg",
+            "frame": "squared",
+            "caption": "",
+            "link": "",
+            "isPdf": false
+        },
+        "_id": "67af049690255ca44b5bc228"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                1,
+                1,
+                26
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                82
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            1,
+            1,
+            26
+        ],
+        "id": "upload-card-1739523290982",
+        "type": "UPLOAD_CARD",
+        "size": "small",
+        "data": {
+            "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739523290654-pexels-rdne-8474491.jpg",
+            "frame": "rounded",
+            "caption": "",
+            "link": "",
+            "isPdf": false
+        },
+        "_id": "67af04da90255ca44b5bc40a"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                1,
+                2,
+                26
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                82
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            1,
+            2,
+            26
+        ],
+        "id": "upload-card-1739523503170",
+        "type": "UPLOAD_CARD",
+        "size": "small",
+        "data": {
+            "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739523502893-pexels-rdne-8474470.jpg",
+            "frame": "rounded",
+            "caption": "",
+            "link": "",
+            "isPdf": false
+        },
+        "_id": "67af05af90255ca44b5bc4d7"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                1,
+                0,
+                11
+            ],
+            "mobile": [
+                2,
+                2,
+                0,
+                78
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            1,
+            0,
+            11
+        ],
+        "id": "dp-card-1739531111275",
+        "type": "DIGITAL_PROFILE_CARD",
+        "size": "small",
+        "data": {
+            "username": "username",
+            "profileLink": "",
+            "appId": "Substack"
+        },
+        "_id": "67af23672adb3a12c797177b"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                1,
+                1,
+                11
+            ],
+            "mobile": [
+                2,
+                2,
+                2,
+                78
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            1,
+            1,
+            11
+        ],
+        "id": "dp-card-1739531225368",
+        "type": "DIGITAL_PROFILE_CARD",
+        "size": "small",
+        "data": {
+            "phoneNumber": "19999999999",
+            "appId": "whatsapp"
+        },
+        "_id": "67af23d92adb3a12c7971885"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                2,
+                2,
+                12
+            ],
+            "mobile": [
+                2,
+                2,
+                0,
+                81
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            2,
+            2,
+            12
+        ],
+        "id": "dp-card-1739531278055",
+        "type": "DIGITAL_PROFILE_CARD",
+        "size": "wide",
+        "data": {
+            "username": "username",
+            "profileLink": "",
+            "appId": "cal"
+        },
+        "_id": "67af240e2adb3a12c7971b51"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                4,
+                0,
+                2
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                86
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            4,
+            0,
+            2
+        ],
+        "id": "logos-card-1739533814037",
+        "type": "LOGOS_CARD",
+        "size": "extraLarge",
+        "data": {
+            "title": "Companies I collaborate with",
+            "description": "",
+            "companyLogo": "",
+            "companies": [
+                {
+                    "id": 1739534021479,
+                    "companyLogo": "https://cdn.brandfetch.io/virgingalactic.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "Virgin Galactic"
+                },
+                {
+                    "id": 1739615787184,
+                    "companyLogo": "https://cdn.brandfetch.io/nasa.gov/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "NASA"
+                },
+                {
+                    "id": 1739613860436,
+                    "companyLogo": "https://cdn.brandfetch.io/spacex.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "SpaceX"
+                },
+                {
+                    "id": 1739533721794,
+                    "companyLogo": "https://cdn.brandfetch.io/boeing.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "The Boeing Company",
+                    "companyDescription": ""
+                },
+                {
+                    "id": 1739533812804,
+                    "companyLogo": "https://cdn.brandfetch.io/blueorigin.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "Blue Origin",
+                    "companyDescription": ""
+                },
+                {
+                    "id": 1739534040328,
+                    "companyLogo": "https://cdn.brandfetch.io/rocketlabusa.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "Rocket Lab",
+                    "companyDescription": ""
+                }
+            ],
+            "companyItemCompanyLogo": null,
+            "companyItemCompanyName": "",
+            "companyItemDescription": ""
+        },
+        "_id": "67af2df6d917106d840d7ef9"
+    },
+    {
+        "position": {
+            "desktop": [
+                4,
+                1,
+                3,
+                24
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                87
+            ]
+        },
+        "widgetPositionConfig": [
+            4,
+            1,
+            3,
+            24
+        ],
+        "id": "upload-card-1739536059605",
+        "type": "UPLOAD_CARD",
+        "size": "tall",
+        "data": {
+            "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739536059172-ezgif-76239d82a08e38.gif",
+            "frame": "squared",
+            "caption": "",
+            "link": "",
+            "isPdf": false
+        },
+        "_id": "67af36bbd917106d840da21b"
+    },
+    {
+        "position": {
+            "desktop": [
+                4,
+                2,
+                0,
+                28
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                92
+            ]
+        },
+        "widgetPositionConfig": [
+            4,
+            2,
+            0,
+            28
+        ],
+        "id": "book-card-1739536294184",
+        "type": "BOOK_CARD",
+        "size": "medium",
+        "data": {
+            "title": "📚 My recent reads",
+            "description": "",
+            "book": "",
+            "books": [
+                {
+                    "id": "BOOK_1739536207793",
+                    "bookTitle": "The Right Stuff",
+                    "bookAuthor": "Tom Wolfe",
+                    "bookCoverImage": "http://books.google.com/books/content?id=PTdeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                {
+                    "id": "BOOK_1739536227389",
+                    "bookTitle": "Carrying the Fire",
+                    "bookAuthor": "Michael Collins",
+                    "bookCoverImage": "http://books.google.com/books/content?id=iXaQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                {
+                    "id": "BOOK_1739536240599",
+                    "bookTitle": "Cosmos",
+                    "bookAuthor": "Carl Sagan",
+                    "bookCoverImage": "http://books.google.com/books/content?id=cDKODQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                {
+                    "id": "BOOK_1739536249562",
+                    "bookTitle": "Pale Blue Dot",
+                    "bookAuthor": "Carl Sagan",
+                    "bookCoverImage": "http://books.google.com/books/content?id=rTCr0H6sRSoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                {
+                    "id": "BOOK_1739536274130",
+                    "bookTitle": "The Universe in a Nutshell",
+                    "bookAuthor": "Stephen Hawking",
+                    "bookCoverImage": "http://books.google.com/books/content?id=VXIc358dF4gC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                },
+                {
+                    "id": "BOOK_1739536288825",
+                    "bookTitle": "The Martian",
+                    "bookAuthor": "Andy Weir",
+                    "bookCoverImage": "http://books.google.com/books/content?id=MQeHAAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                }
+            ]
+        },
+        "_id": "67af37a6d917106d840da3b9"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                0
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                98
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            0
+        ],
+        "id": "number-card-1739547710534",
+        "type": "NUMBER_CARD",
+        "size": "large",
+        "data": {
+            "title": "My number board",
+            "description": "",
+            "numberStats": [
+                {
+                    "id": 1739547599846,
+                    "arrayName": "17+ ",
+                    "arrayDescription": "Years in space business"
+                },
+                {
+                    "id": 1739552930552,
+                    "arrayName": "100+",
+                    "arrayDescription": "Astronauts trained"
+                },
+                {
+                    "id": 1739547683027,
+                    "arrayName": "230+",
+                    "arrayDescription": "Successful dockings"
+                },
+                {
+                    "id": 1739552961272,
+                    "arrayName": "500+",
+                    "arrayDescription": "Partnerships with global "
+                },
+                {
+                    "id": 1739547693454,
+                    "arrayName": "30,000",
+                    "arrayDescription": "Miles travelled"
+                }
+            ]
+        },
+        "_id": "67af643fd917106d840daf51"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                28
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                101
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            28
+        ],
+        "id": "link-card-1739547981016",
+        "type": "LINK_CARD",
+        "size": "large",
+        "data": {
+            "link": "https://open.spotify.com/playlist/0P8dnmcj9sjNlJf4JK1TF7?si=a7ad30f4c4584730",
+            "title": "Favorite podcasts 🎙️ of 2025",
+            "description": "Podcasts on humanity, travel and psychology",
+            "cardImageSource": "image_from_link",
+            "backgroundType": "glass",
+            "linkIconType": "link_fav_icon",
+            "linkFavIcon": "https://open.spotifycdn.com/cdn/images/favicon32.b64ecc03.png",
+            "cardImageUrl": "https://mosaic.scdn.co/640/ab67656300005f1f0f419fde83f3f8075c9b2985ab67656300005f1f601e7db66723f91deefc0052ab67656300005f1f70fd1c63301d50d29ec593c4ab67656300005f1fc867fca31b4e053169709e5a"
+        },
+        "_id": "67af654dd917106d840db169"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                30
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                104
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            30
+        ],
+        "id": "text-card-1739548124870",
+        "type": "TEXT_BUBBLE_CARD",
+        "size": "large",
+        "data": {
+            "title": "During free time you can find me",
+            "description": "",
+            "hobbies": [
+                {
+                    "id": 1739548057105,
+                    "arrayName": "🏃‍♂️ Running",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739548073046,
+                    "arrayName": "🌱 Parenting plants",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739548091728,
+                    "arrayName": "🔬 Researching biology",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739548105396,
+                    "arrayName": "📚 Reading books",
+                    "arrayDescription": ""
+                },
+                {
+                    "id": 1739548124140,
+                    "arrayName": "♟️ Playing chess",
+                    "arrayDescription": ""
+                }
+            ],
+            "arrayItemName": "",
+            "arrayItemDescription": ""
+        },
+        "_id": "67af65ddd917106d840db26e"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                16
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                109
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            16
+        ],
+        "id": "logos-card-1739548214965",
+        "type": "LOGOS_CARD",
+        "size": "large",
+        "data": {
+            "title": "Esteemed clients and partners",
+            "description": "",
+            "companyLogo": "",
+            "companies": [
+                {
+                    "id": 1739553692129,
+                    "companyLogo": "https://cdn.brandfetch.io/rocketlabusa.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "Rocket Lab",
+                    "companyDescription": ""
+                },
+                {
+                    "id": 1739553725520,
+                    "companyLogo": "https://cdn.brandfetch.io/sierraspace.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "Sierra Space",
+                    "companyDescription": ""
+                },
+                {
+                    "id": 1739553738613,
+                    "companyLogo": "https://cdn.brandfetch.io/fireflyspace.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "Firefly Aerospace",
+                    "companyDescription": ""
+                },
+                {
+                    "id": 1739553759381,
+                    "companyLogo": "https://cdn.brandfetch.io/astroscale.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "Astroscale",
+                    "companyDescription": ""
+                },
+                {
+                    "id": 1739553799131,
+                    "companyLogo": "https://cdn.brandfetch.io/relativityspace.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "Relativity Space",
+                    "companyDescription": ""
+                },
+                {
+                    "id": 1739553825642,
+                    "companyLogo": "https://cdn.brandfetch.io/boeing.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                    "companyName": "The Boeing Company",
+                    "companyDescription": ""
+                }
+            ]
+        },
+        "_id": "67af6637d917106d840db35c"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                1,
+                1,
+                4
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                111
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            1,
+            1,
+            4
+        ],
+        "id": "upload-card-1739549874553",
+        "type": "UPLOAD_CARD",
+        "size": "small",
+        "data": {
+            "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739549874143-space%20gif.gif",
+            "frame": "squared",
+            "caption": "",
+            "link": "",
+            "isPdf": false
+        },
+        "_id": "67af6cb2d917106d840dbe18"
+    },
+    {
+        "position": {
+            "desktop": [
+                2,
+                2,
+                2,
+                6
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                111
+            ]
+        },
+        "widgetPositionConfig": [
+            2,
+            2,
+            2,
+            6
+        ],
+        "id": "rich-text-card1739553204046",
+        "type": "RICH_TEXT_CARD",
+        "size": "large",
+        "data": {
+            "rich_text_content": "<blockquote style=\"text-align: left\"><p style=\"text-align: left\"><span style=\"font-size: 24px\"><em>⭐⭐⭐⭐⭐</em></span></p><p style=\"text-align: left\"></p><p style=\"text-align: left\"><span style=\"font-size: 24px\"><em>\"Charlie runs the space station like a pro—zero gravity, zero problems, all brilliance!\"</em></span><br></p><p style=\"text-align: left\">-</p><p style=\"text-align: left\"><span style=\"font-size: 18px\"><em>Director</em><br><em>NASA</em></span></p></blockquote>",
+            "rich_text_content_bg": "#424242"
+        },
+        "_id": "67af79b4d917106d840dcb09"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                2,
+                0,
+                22
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                114
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            2,
+            0,
+            22
+        ],
+        "id": "link-card-1739555876410",
+        "type": "LINK_CARD",
+        "size": "wide",
+        "data": {
+            "link": "https://www.axiomspace.com/missions/ax2",
+            "title": "Axiom Mission 2",
+            "description": "",
+            "cardImageSource": "image_from_link",
+            "backgroundType": "glass",
+            "linkIconType": "default",
+            "linkFavIcon": "https://cdn.prod.website-files.com/6618f4b8b5c1b5cf8a47b8ef/661eb9a128e40db72aea97f1_660eae485b6b113c5599f06c_ax-favicon.png",
+            "cardImageUrl": "https://cdn.prod.website-files.com/671fb31e0ed79c76c93e1019/671fb31e0ed79c76c93e18a2_Axiom%20Space%20Ax-2%20Crew%20Portrait%20Large.avif"
+        },
+        "_id": "67af8424d917106d840defed"
+    },
+    {
+        "position": {
+            "desktop": [
+                1,
+                2,
+                2,
+                22
+            ],
+            "mobile": [
+                2.24,
+                4,
+                0,
+                119
+            ]
+        },
+        "widgetPositionConfig": [
+            1,
+            2,
+            2,
+            22
+        ],
+        "id": "link-card-1739555939093",
+        "type": "LINK_CARD",
+        "size": "wide",
+        "data": {
+            "link": "https://www.axiomspace.com/missions/ax1",
+            "title": "Axiom Mission 1",
+            "description": "The Ax-1 astronauts are the first in a new class of pioneers stepping forth to lay the groundwork for Axiom Station and the full realization of low Earth orbit’s possibilities. The Ax-1 astronauts conducted extensive research and STEM outreach. Their efforts align with how each philanthropist carries out his work at home, in service to all on Earth and to all who follow them beyond it.",
+            "cardImageSource": "image_from_link",
+            "backgroundType": "glass",
+            "linkIconType": "default",
+            "linkFavIcon": "https://cdn.prod.website-files.com/6618f4b8b5c1b5cf8a47b8ef/661eb9a128e40db72aea97f1_660eae485b6b113c5599f06c_ax-favicon.png",
+            "cardImageUrl": "https://cdn.prod.website-files.com/671fb31e0ed79c76c93e1019/671fb31e0ed79c76c93e182b_6628e10b085dc1231be83020_AxiomSpace_Ax1Crew_Crew_CGUNN_Web2.avif"
+        },
+        "_id": "67af8463d917106d840df361"
+    }
+]}

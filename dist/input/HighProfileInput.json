@@ -1,0 +1,610 @@
+{
+    "public_identifier": "thechrisdo",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/thechrisdo/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d90d8e12e248c23b66a73e9692f032fcf7fef37870eee609d02b14608f51fa92",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/thechrisdo/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=fee1058f521e69b080fce3f2b61bae19e9329624ce4d64b1ac28a30bd4db46f3",
+    "first_name": "Chris",
+    "last_name": "Do",
+    "full_name": "Chris Do",
+    "follower_count": 575099,
+    "occupation": "Founder, CEO at The Futur",
+    "headline": "Learn how to get more clients, grow your influence and build your personal brand. Generate $20k/months—Go Pro, or Level Up w/ Bootcamp. ← Apply Today",
+    "summary": "As the Founder and CEO of The Futur, I have over 27 years of experience in brand design, strategy, and consultancy, working with clients such as Microsoft, Sony, Nike, and Starbucks. I am passionate about helping people realize their value and communicate it to others, whether through design, content, education, or coaching.\n\nI am also a sought-after public speaker and mentor, delivering keynote speeches, workshops, and courses at various events, conferences, and organizations around the world. I share my insights and expertise on topics such as branding, business, creativity, and social media marketing, reaching millions of people through my YouTube channel, podcast, and online platform. My mission is to empower the next generation of creative entrepreneurs and leaders to achieve their full potential.",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Pasadena",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2016
+            },
+            "ends_at": null,
+            "company": "The Futur",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-futur/",
+            "company_facebook_profile_url": null,
+            "title": "Founder, CEO",
+            "description": "I help people realize their value and communicate it to others.",
+            "location": "Santa Monica",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/the-futur/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=1af950156496f1263bb0042b793d7334b2f92d03dfb8ec6048f998a998efe961"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 1995
+            },
+            "ends_at": null,
+            "company": "Blind, Inc.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/blind/",
+            "company_facebook_profile_url": null,
+            "title": "CEO, Chief Strategist, Executive Creative Director",
+            "description": "Brand Design Consultancy",
+            "location": "1702 Olympic Blvd., Santa Monica CA 90404",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/blind/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=08d9b0db5e8d9ee9f49d9b0ac86da4bc4602756ae844cc99feeb8cb9d62fafd9"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2013
+            },
+            "ends_at": null,
+            "company": "SalesHood",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/saleshood/",
+            "company_facebook_profile_url": null,
+            "title": "Advisor",
+            "description": "Advisor.",
+            "location": "San Francisco Bay Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/saleshood/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d905666ef34eb168936f5433ed6582706a41b4736843ba4dab255e4124f80877"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2024
+            },
+            "company": "Elevate Conference",
+            "company_linkedin_profile_url": null,
+            "company_facebook_profile_url": null,
+            "title": "Keynote Speaker",
+            "description": "Keynote Speaker \"Personal Branding Roadmap\"",
+            "location": "Glendale, California, United States",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2024
+            },
+            "company": "Sharjah FDI Office - Invest in Sharjah",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/invest-in-sharjah/",
+            "company_facebook_profile_url": null,
+            "title": "Keynote Speaker",
+            "description": "Keynote presentation on main stage: Intelligent Identities: AI in Corporate Branding",
+            "location": "Sharjah, Sharjah Emirate, United Arab Emirates",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/invest-in-sharjah/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=31833c15b08bcd039d91077b1b3c6675051e05ebb2d6be04ee712c920219c1a8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2024
+            },
+            "company": "Designer Boss",
+            "company_linkedin_profile_url": null,
+            "company_facebook_profile_url": null,
+            "title": "Keynote Speaker",
+            "description": "VIP Keynote Speaker\nDesigner Boss \"Design Camp\" 2024",
+            "location": "Australia",
+            "logo_url": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2024
+            },
+            "company": "Forward Academy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/forward-academy-us/",
+            "company_facebook_profile_url": null,
+            "title": "Keynote Speaker",
+            "description": "\"9-1-1\" How to revise your dying content game.",
+            "location": "Las Vegas, Nevada, United States",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/forward-academy-us/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3f9d5db6ffca48842641b97fe45eab6838c16f876b042941b2c18bc14d06399b"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2024
+            },
+            "company": "NAAAP (National Association of Asian American Professionals)",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/naaap_national/",
+            "company_facebook_profile_url": null,
+            "title": "Keynote Speaker",
+            "description": "Opening keynote \"Confessions of a recovering graphic design\".\nMy journey from graphic design to creator.",
+            "location": "Houston, Texas, United States",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/naaap_national/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=521016994553721e0965e2c76730d1f77915584cd5e7efe874be88bbb24c950e"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2024
+            },
+            "company": "VidCon",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/vidcon/",
+            "company_facebook_profile_url": null,
+            "title": "Panel Member",
+            "description": "AI-POWERED: THE CREATOR ECONOMY IN 2025 & BEYOND\nAI has already begun to transform the creator economy in 2024, and will only continue to revolutionize this sector in 2025 and beyond. This panel will uncover and unpack emerging trends and technologies shaping the creator economy, with a focus towards AI, while also diving into how creator’s can leverage these cutting-edge developments to their advantage.",
+            "location": "Anaheim, California, United States",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/vidcon/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=90822ebeee4da4de616f9997c75a1cb97cae10d2e4fc8059b2d1f6312de63fde"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2024
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2024
+            },
+            "company": "FOX Sports",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/foxsports/",
+            "company_facebook_profile_url": null,
+            "title": "Speaker & Workshop Facilitator",
+            "description": "Demystifying the Creative Black Box\nKeynote Speaker and facilitator for FOX Sports on air promo team retreat.",
+            "location": "Laguna Beach, California, United States",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/foxsports/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=5609243d51d031fc5ed178b17fd99df07939b48f42643270da74839767ca7323"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1991
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1995
+            },
+            "field_of_study": "graphic design + packaging",
+            "degree_name": "bfa",
+            "school": "ArtCenter College of Design",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/artcenteredu/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/artcenteredu/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=111f4fb0f3ac1430eb862b42069bba89685a3c7dddc073b6f18dd4bb17429df2",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1990
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1991
+            },
+            "field_of_study": "Graphic Design",
+            "degree_name": null,
+            "school": "San Diego City College",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/san-diego-city-college/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/san-diego-city-college/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T082043Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=d1782858320be15dfccdb38bc44118c41584dee09c7002ec7ff4ff06706485d8",
+            "grade": null,
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 1986
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 1990
+            },
+            "field_of_study": "Graphic Design",
+            "degree_name": "High School Diploma",
+            "school": "Santa Teresa High School",
+            "school_linkedin_profile_url": null,
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": null,
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [
+        "English",
+        "French",
+        "Vietnamese"
+    ],
+    "languages_and_proficiencies": [
+        {
+            "name": "English",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        },
+        {
+            "name": "French",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Vietnamese",
+            "proficiency": "LIMITED_WORKING"
+        }
+    ],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2020
+            },
+            "org_name": "Society to Promote Japanese Animation",
+            "title": "Chairman of the board",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2011
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2017
+            },
+            "org_name": "Academy of Television Arts and Sciences",
+            "title": "Executive Committee Motion Title Design Peer Group",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2014
+            },
+            "org_name": "AIGA",
+            "title": "Board of Advisors, Programming Chair, Member",
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2006
+            },
+            "ends_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2007
+            },
+            "org_name": "Type Director's Club",
+            "title": "member",
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [
+        {
+            "name": "Chris Do: Konsumenci nie kupują już produktów – oni dołączają do plemion",
+            "publisher": "Marketer+",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "description": null,
+            "url": "https://marketerplus.pl/chris-do-konsumenci-nie-kupuja-juz-produktow-oni-dolaczaja-do-plemion/"
+        },
+        {
+            "name": "Pocket Full of Do",
+            "publisher": "Muscle and Health",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "description": null,
+            "url": "https://muscleandhealth.com/a-pocket-full-of-do/"
+        },
+        {
+            "name": "Design Moves Us From The Way Things Are To The Way Things Should Be",
+            "publisher": "Branders Magazine",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2020
+            },
+            "description": null,
+            "url": "https://www.brandersmagazine.com/getbranders/branders-magazine-issue-19"
+        },
+        {
+            "name": "Linkedin Top Voices 2019",
+            "publisher": "Linkedin",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "https://www.linkedin.com/pulse/linkedin-top-voices-2019-entrepreneurship-small-business-jordyn-dahl/"
+        },
+        {
+            "name": "PBS SoCal Interview",
+            "publisher": "PBS SoCal",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2019
+            },
+            "description": null,
+            "url": "https://www.pbssocal.org/programs/laart/chris-do-7r5ycw/"
+        },
+        {
+            "name": "THE EDUCATIONAL INNOVATORS BEHIND LYNDA.COM AND THE SKOOL, AND THE BOOMING BUSINESS OF ONLINE LEARNING",
+            "publisher": "ArtCenter Dot Magazine",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "https://www.artcenter.edu/connect/dot-magazine/articles/the-educational-innovators-behind-lynda-com-and-the-skool.html"
+        },
+        {
+            "name": "Blind: Looking back on 20 years",
+            "publisher": "Motionographer",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "description": null,
+            "url": "http://motionographer.com/2015/10/22/blind-looking-back-at-20-years/"
+        },
+        {
+            "name": "B Brand Balance",
+            "publisher": "B Brand Documentary Magazine",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "http://magazine-b.com/en/thule/"
+        },
+        {
+            "name": "PPaper",
+            "publisher": "PPaper 135",
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2013
+            },
+            "description": null,
+            "url": "https://www.ppaper.net"
+        },
+        {
+            "name": "LA Weekly",
+            "publisher": null,
+            "published_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2006
+            },
+            "description": null,
+            "url": "http://www.laweekly.com/2006-11-23/news/santa-monica-or-saigon/"
+        },
+        {
+            "name": "99 Percent",
+            "publisher": "99 Percent Lifestyle",
+            "published_on": null,
+            "description": null,
+            "url": "https://www.99percentlifestyle.com/product/99-percent-lifestyle-volume-6-2/"
+        },
+        {
+            "name": "Beast Identity",
+            "publisher": "Communication Arts",
+            "published_on": null,
+            "description": null,
+            "url": "https://www.commarts.com/exhibit/beast-identity"
+        },
+        {
+            "name": "I.D.",
+            "publisher": "United States",
+            "published_on": null,
+            "description": null,
+            "url": null
+        },
+        {
+            "name": "Jet \"Get Born\" Music Video",
+            "publisher": "Communication Arts",
+            "published_on": null,
+            "description": null,
+            "url": "https://www.commarts.com/project/15869/jet-get-born-music-video"
+        }
+    ],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Gold + Silver Awards",
+            "issuer": "Create Awards",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2008
+            },
+            "description": "Silver Awards for: Advertising/Art Direction :30 Commercial \"4th and Inches\" Russel Athletic, \"Where movies come from\" Long Beach Film Festival, Film + Video \"Black and white\" music video Raveonettes, Motion Graphics \"Vending Machine\" Fox Sports."
+        },
+        {
+            "title": "Individual Achievement, Art Direction in Animation",
+            "issuer": "Academy of Television Arts & Sciences",
+            "issued_on": null,
+            "description": "for the Raveonettes \"Heart of Stone\" music video"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "3d animation",
+            "number": null
+        },
+        {
+            "name": "3d modeling",
+            "number": null
+        },
+        {
+            "name": "Typography",
+            "number": null
+        },
+        {
+            "name": "editorial design",
+            "number": null
+        },
+        {
+            "name": "exhibit design",
+            "number": null
+        },
+        {
+            "name": "identity design",
+            "number": null
+        },
+        {
+            "name": "lettering",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2015
+            },
+            "title": "Lynda.com Interview",
+            "description": "Faced with a shrinking marketplace and higher expectations from clients, Blind, the award-winning motion design firm, had to turn and pivot. Founder Chris Do decided he had to grow not only as an artist but also as a businessperson. Instead of complaining about the way things aren't, Chris has guided his company to embrace change. Learn about Blind's journey, and why Chris thinks it's the most exciting time for designers who choose change to be alive.",
+            "url": null
+        },
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Raveonettes \"Heart of Stone\"",
+            "description": "Music Video, 3d computer animation",
+            "url": null
+        }
+    ],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "title": "Programming Chair",
+            "cause": null,
+            "company": "AIGA Los Angeles",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/aiga-los-angeles/",
+            "description": "Helped plan and organize events.",
+            "logo_url": "https://media.licdn.com/dms/image/v2/C560BAQFfmtwNcJNRVw/company-logo_400_400/company-logo_400_400/0/1649301548981/aiga_los_angeles_logo?e=1746662400&v=beta&t=-iRT1i7okH9wskv3GtIW5Osm18eMXgYUDqJn2ZmNaZQ"
+        }
+    ],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Chris Do",
+            "link": "https://www.linkedin.com/in/chrisndo",
+            "summary": "Cloud Security Architecture & Engineering",
+            "location": "Alexandria, VA"
+        },
+        {
+            "name": "Chris Do",
+            "link": "https://www.linkedin.com/in/chris-do-36092161",
+            "summary": "Engineering Manager at BASF",
+            "location": "Freeport, TX"
+        },
+        {
+            "name": "Chris Do",
+            "link": "https://www.linkedin.com/in/chris-do-9874721",
+            "summary": null,
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "name": "Chris Do",
+            "link": "https://vn.linkedin.com/in/chris-do-50b91050",
+            "summary": "Territory Sales Manager in S.E.A",
+            "location": "Hanoi Capital Region"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

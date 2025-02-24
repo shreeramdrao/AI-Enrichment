@@ -1,0 +1,288 @@
+{
+    "public_identifier": "lakshmi-narayanan-r",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/lakshmi-narayanan-r/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241203%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241203T123433Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a601d2fdce6c53a42c19dd80e64e2e73a82d0766f8b019bdb470d3a458b19883",
+    "background_cover_image_url": null,
+    "first_name": "Lakshmi Narayanan",
+    "last_name": "R",
+    "full_name": "Lakshmi Narayanan R",
+    "follower_count": 1046,
+    "occupation": "Co-Founder at BulkBeings",
+    "headline": "Driving Innovation at BulkBeings: Where AI, Web3, and Blockchain Meet Fintech, Healthcare, and Sustainability. Building Tomorrow, Today.",
+    "summary": null,
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "BulkBeings",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bulkbeings",
+            "company_facebook_profile_url": null,
+            "title": "Co-Founder",
+            "description": null,
+            "location": "Chennai, Tamil Nadu, India · On-site",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/bulkbeings/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241203%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241203T123434Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=df26caf92a3cb65414c36b43263cc0698267935a3470a06fd447a2c185a0fbc1"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2023
+            },
+            "company": "EvolTech",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/evoltechgroup",
+            "company_facebook_profile_url": null,
+            "title": "Senior Software Engineer(Core Team)",
+            "description": null,
+            "location": "Danbury, Connecticut, United States · Hybrid",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/evoltechgroup/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241203%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241203T123434Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=b020fbdbe51f1c5c6dfee475e242609b359d0ddd05226082c311db5aa0d45214"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2023
+            },
+            "company": "Google Developer Student Club Sri Sairam Institute of Technology",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/74769350/",
+            "company_facebook_profile_url": null,
+            "title": "Technical Lead",
+            "description": null,
+            "location": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGEonXaVPy3hw/company-logo_400_400/0/1630672528935?e=1724889600&v=beta&t=nWtC5vjmwLHB-JrAFd84vanXeTlEGZCC0A92f8aUCCA"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2021
+            },
+            "company": "Insysness Technology Pvt. Ltd.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/insysness",
+            "company_facebook_profile_url": null,
+            "title": "Full Stack Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/insysness/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241203%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241203T123434Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=59542b52cd83faebc26c9fd0724af58f28e4b5ba3dddbdd7932634ce3ec41d5f"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2021
+            },
+            "company": "Insysness Technology Pvt. Ltd.",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/insysness",
+            "company_facebook_profile_url": null,
+            "title": "Deep Learning Engineer",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/insysness/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241203%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241203T123434Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=59542b52cd83faebc26c9fd0724af58f28e4b5ba3dddbdd7932634ce3ec41d5f"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2020
+            },
+            "company": "StudyMonk",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/studymonk",
+            "company_facebook_profile_url": null,
+            "title": "President",
+            "description": null,
+            "location": "Chennai, Tamil Nadu, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/studymonk/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241203%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241203T123434Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a8426803ef7d55225b7ea59fcd363c1ec7c48d793dc645a2bb059e25b75614c"
+        }
+    ],
+    "education": [],
+    "languages": [],
+    "languages_and_proficiencies": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 1030,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/jabezselvaraj?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACfMhxsB2-fCbi091RGCgPHAlZwWDKTPvKo",
+            "name": "Jabez Selvaraj D",
+            "summary": "Converging Business & Progressive Expansion.",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mageshsundarg?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC0GwN0BJhhoUbZKIUf1XCTfWJNhJ-eG79U",
+            "name": "Magesh Sundar",
+            "summary": "Building BulkBeings: Merging Fintech Innovation with Sustainable Practices | Dedicated to Real-World, Impactful Solutions",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kushal-l-2001a3133?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACCY-2AB8zCZD4WMjUxu631rnLmP9NuoFf4",
+            "name": "Kushal L",
+            "summary": "Founder | Beta @ travee.ai ",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/prashantrana23?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAA1k80sBiYpf50QUvhJ5xW1vfOJ4ivkkcIc",
+            "name": "Prashant Rana",
+            "summary": "Founder & CEO of Sipransh Ecommgrowth | Amazon Advertising & PPC Marketing Expert",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/durgaprasaddevadi?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADj2w2UBSrMSbTC4aZSe3N28M40pWhOVd1A",
+            "name": "Devadi Durga Prasad",
+            "summary": "Student at Jawaharlal Nehru Technological University, Kakinada",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "Why investors kept on funding Zomato even after no profit for years? From 2018 to 2021 – Total loss of Rs 4,600 crore Q) Were the employees not…",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Lakshmi Narayanan R"
+        },
+        {
+            "title": "Photo",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Lakshmi Narayanan R"
+        },
+        {
+            "title": "Like if you're from my generation 😉",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Lakshmi Narayanan R"
+        },
+        {
+            "title": "💯💯",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Lakshmi Narayanan R"
+        },
+        {
+            "title": "With Microsoft changing certification numbers so often it's not always obvious what the right cert path is.AZ-900 is the stepping stone and is an…",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Lakshmi Narayanan R"
+        },
+        {
+            "title": "STG CEO, Ben Wallace, joins Bank Director Executive Panel at the upcoming Acquire or Be Acquired Conference to discuss how customer experience can…",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Lakshmi Narayanan R"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "LAKSHMI NARAYANAN R",
+            "link": "https://in.linkedin.com/in/lakshmi-narayanan-r-82336829",
+            "summary": "Branch Banking  at DBS Bank",
+            "location": "Chennai"
+        },
+        {
+            "name": "Lakshmi Narayanan R",
+            "link": "https://sg.linkedin.com/in/lakshmi-narayanan-r-a582aa32",
+            "summary": "Project Manager at Heerema Marine Contractors",
+            "location": "Singapore"
+        },
+        {
+            "name": "Lakshmi Narayanan .R",
+            "link": "https://in.linkedin.com/in/lakshmi-narayanan-r-b5212989",
+            "summary": "Data Scientist",
+            "location": "Chennai"
+        },
+        {
+            "name": "Lakshmi Narayanan R",
+            "link": "https://in.linkedin.com/in/lakshmi-narayanan-r-12bb1212a",
+            "summary": "Pavement Engineer at V R TECHNICHE Consultants Pvt. Ltd",
+            "location": "Tamil Nadu, India"
+        },
+        {
+            "name": "Lakshmi Narayanan R",
+            "link": "https://in.linkedin.com/in/lakshmi-narayanan-r-36125850",
+            "summary": "Associate Director - Delivery at Virtusa",
+            "location": "Chennai"
+        },
+        {
+            "name": "Lakshmi Narayanan R",
+            "link": "https://in.linkedin.com/in/lakshmi-narayanan-r-75b46b128",
+            "summary": "Project Engineer at Wipro Technologies",
+            "location": "Coimbatore"
+        }
+    ],
+    "articles": [],
+    "groups": [
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/D5607AQHTvNPgvZ5IUQ/group-logo_image-shrink_400x400/0/1713438763325?e=1717416000&v=beta&t=a-K_T2k0jltiUuWWEfYx15U-fjs_BQuBrA8P-FcsVUg",
+            "name": "Staff Augmentation - Open Contract Requirement ",
+            "url": "https://www.linkedin.com/groups/14440080"
+        },
+        {
+            "profile_pic_url": "https://media.licdn.com/dms/image/C4E07AQHsCFbktnq6FA/group-logo_image-shrink_400x400/0/1631000142355?e=1717416000&v=beta&t=QTdZMmO9T8ZRDpSJH2x_d9AJnQOMXLDxkZQ8GPXQ0Fs",
+            "name": "Artificial Intelligence and Business Analytics (AIBA) Group",
+            "url": "https://www.linkedin.com/groups/62438"
+        }
+    ],
+    "skills": [
+        "Artificial Intelligence (AI)",
+        "Web3",
+        "Web Development",
+        "Director level",
+        "Executive Search",
+        "Marketing",
+        "Project Management",
+        "Flutter",
+        "English",
+        "Machine Learning",
+        "Management",
+        "Deep Learning",
+        "Technical Leadership",
+        "Full-Stack Development"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

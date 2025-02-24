@@ -1,0 +1,259 @@
+{
+    "public_identifier": "samirchaudry",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/samirchaudry/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=604633e2826f7cdd3754365143075e6bbe5905f25c6bdd34f25254dba6221028",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/samirchaudry/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=707aa0543a3ba42fc2aef4c3f9ec7e8a1b7b4ba18d3731cd98d32d07e7d0896b",
+    "first_name": "Samir",
+    "last_name": "Chaudry",
+    "full_name": "Samir Chaudry",
+    "follower_count": 28772,
+    "occupation": "Co-Founder & President  at Colin and Samir",
+    "headline": "Samir, From Colin and Samir",
+    "summary": "In 2012 I started a company called The Lacrosse Network - my goal was to build a digital home for the sport I grew up playing. I saw an opportunity to connect the global community and create a platform to tell stories about the sport. \n\nAfter 2 years of building the network, we were acquired by Whistle Sports. At Whistle, I continued to build The Lacrosse Network while serving as the Director of Partnerships and Programming strategy - working with online creators of all sizes and developing strategies to build audiences and integrate brand partners. \n\nFrom there, I become an independent producer, creating content of my own with my partner Colin - as well as consulting with creators and brands to build engaged audiences. \n\nToday I host a show about the creator economy on YouTube and i'm building new projects that focus on helping creators scale their businesses. \n\nShow: http://YouTube.com/Colinandsamir \n\nNewsletter: http://thepublishpress.com",
+    "country": "US",
+    "country_full_name": "United States of America",
+    "city": "Los Angeles",
+    "state": "California",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2017
+            },
+            "ends_at": null,
+            "company": "Colin and Samir",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/colin-and-samir/",
+            "company_facebook_profile_url": null,
+            "title": "Co-Founder & President ",
+            "description": "We create content about creators, for creators. Launching projects and products into the creator economy",
+            "location": "Greater Los Angeles Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/colin-and-samir/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9afd2811c091b9d51b1f5ebf42c9ede3bb8af64d2328e767650ba8abb8f0c659"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2014
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "The Whistle Sports Network",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/team-whistle/",
+            "company_facebook_profile_url": null,
+            "title": "Director, Partnerships and Programming Strategy",
+            "description": null,
+            "location": "Greater Los Angeles Area",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/team-whistle/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4ca5a768146fdaef7592e7899302bbdc7a7def7473aa21843eba0811d11df570"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2012
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2016
+            },
+            "company": "The Lacrosse Network",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/the-lacrosse-network/",
+            "company_facebook_profile_url": null,
+            "title": "Co Founder & President (Acquired by Whistle Sports) ",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/the-lacrosse-network/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d0353da6089c16a2e1078528044818d307aad985d8acb4f50abb0af83dae934"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2007
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2011
+            },
+            "field_of_study": "Cinematography and Film/Video Production",
+            "degree_name": "Film and Digital Media",
+            "school": "University of California, Santa Cruz",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/ucsc/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ucsc/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe53921e89bde01272d0f1761595dd4409acc626801f88d4899433a7291429f0",
+            "grade": null,
+            "activities_and_societies": "President and Captain UC Santa Cruz Men's Lacrosse \nHead Coach: Pacific Collegiate School Boys Lacrosse"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2001
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2007
+            },
+            "field_of_study": null,
+            "degree_name": "High School",
+            "school": "Harvard-Westlake School",
+            "school_linkedin_profile_url": "https://www.linkedin.com/school/harvard-westlake-school/",
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/harvard-westlake-school/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9ea348deda3a9e0aca0c2d250f0ed9eeb4e7b978165dbdb5d649c5a7d39c6e07",
+            "grade": null,
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "languages_and_proficiencies": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "org_name": "United In Harmony ",
+            "title": null,
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Cynopsis Rising Star Award",
+            "issuer": "Cynopsis Media",
+            "issued_on": {
+                "day": 1,
+                "month": 10,
+                "year": 2015
+            },
+            "description": "Cynopsis Media’s Rising Stars program honors those with the smarts, maturity, and composure that give them the potential to be one of the next generation’s leaders. They may be 30 years old or younger, but they bring amazing energy and creativity to their work.\n\n"
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2005
+            },
+            "ends_at": null,
+            "title": "Volunteer",
+            "cause": "CHILDREN",
+            "company": "Camp Harmony",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/camp-harmony/",
+            "description": "United in Harmony is a non-profit, non-sectarian organization that was established in 1989 as a response to homelessness and poverty facing children in our community. United in Harmony’s mission is to provide impoverished children with hope and opportunities. United in Harmony’s overnight-camp program (Camp Harmony) is designed to help children develop positive self-esteem and to thereby inspire and empower campers in their future endeavors. At Camp Harmony, children grow through interactions with teenage and adult role models while experiencing nature, exploring arts, sports, and an array of other enriching activities.\n",
+            "logo_url": null
+        }
+    ],
+    "certifications": [
+        {
+            "starts_at": null,
+            "ends_at": null,
+            "name": "YouTube Certified",
+            "license_number": null,
+            "display_source": "auxmode.com",
+            "authority": "YouTube",
+            "url": "http://auxmode.com/youtube-certified-multi-channel-network-companies/youtube-certified-multi-channel-network-companies-in-usa/"
+        }
+    ],
+    "connections": 500,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/colinrosenblum",
+            "name": "Colin Rosenblum",
+            "summary": "Building for the Creator Economy",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/josh-richards-25b136201",
+            "name": "Josh Richards",
+            "summary": "Investor | Advisor | Entrepreneur | Digital Creator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/jason-nash-ab4b0b11",
+            "name": "Jason Nash",
+            "summary": "Creator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/zackhonarvar",
+            "name": "Zack Honarvar",
+            "summary": "Helping Creators Build Their Empires",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/suhant-mehta",
+            "name": "Suhant Mehta",
+            "summary": "Community Consultant | Building Engaging Online Communities",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/omgadrian",
+            "name": "Adrian Per",
+            "summary": "Director / Content Creator",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/marchustvedt",
+            "name": "Marc Hustvedt",
+            "summary": "something new is brewing",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vancityreynolds",
+            "name": "Ryan Reynolds",
+            "summary": "Part-Time Actor, Business Owner",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/maxreisinger",
+            "name": "Max Reisinger",
+            "summary": "Co-Founder & CEO at Creator Camp",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/karl-jacobs-a068642a8",
+            "name": "Karl Jacobs",
+            "summary": "Content Creator",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [
+        {
+            "name": "Samir Chaudry",
+            "link": "https://www.linkedin.com/in/samir-chaudry-73906840",
+            "summary": "Director of Marketing/Media at Chaudry (KVM International)",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "name": "Samir Chaudry",
+            "link": "https://www.linkedin.com/in/samir-chaudry-93680716",
+            "summary": "--",
+            "location": "United States"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": null,
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": null,
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []}

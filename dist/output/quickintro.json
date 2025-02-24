@@ -1,0 +1,641 @@
+{
+    "widgets": [
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    0,
+                    0
+                ],
+                "mobile": [
+                    1.03,
+                    2,
+                    1,
+                    0
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "id": "hero-card-1739792131097",
+            "type": "HERO_CARD",
+            "size": "heroExtraLarge",
+            "data": {
+                "coverPic": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739792334702-pexels-sohi-807598.jpg",
+                "profilePic": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739792131119-quick.png",
+                "name": "Richard Hendricks",
+                "jobTitle": "Creator",
+                "company": "",
+                "companydetail": {
+                    "companyName": "PIED PIPER",
+                    "companyLogo": "https://cdn.brandfetch.io/piedpiperllp.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7"
+                },
+                "description": "I'm the guy who accidentally became a CEO while trying to revolutionize data compression.",
+                "heroButtonLink": "http://piedpiper.com/",
+                "heroButtonName": "Visit website",
+                "phoneNumber": "999999999999",
+                "email": "rihchard@piedpiper.com"
+            },
+            "_id": "67b31f030495ffab6a0a72a6"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    2
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    2
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                2
+            ],
+            "id": "logos-card-1739792649904",
+            "type": "LOGOS_CARD",
+            "size": "large",
+            "data": {
+                "title": "Companies associated with",
+                "description": "",
+                "companyLogo": "",
+                "companies": [
+                    {
+                        "id": 1739792593192,
+                        "companyLogo": "https://cdn.brandfetch.io/airbnb.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Airbnb"
+                    },
+                    {
+                        "id": 1739792601779,
+                        "companyLogo": "https://cdn.brandfetch.io/uber.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Uber",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739792613742,
+                        "companyLogo": "https://cdn.brandfetch.io/nvidia.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "NVIDIA",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739792635247,
+                        "companyLogo": "https://cdn.brandfetch.io/instacart.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Instacart",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739792647609,
+                        "companyLogo": "https://cdn.brandfetch.io/cash.app/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Cash App",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739792706157,
+                        "companyLogo": "https://cdn.brandfetch.io/bostondynamics.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Boston Dynamics"
+                    }
+                ]
+            },
+            "_id": "67b3210a0495ffab6a0a72b0"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    0
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    7
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                0
+            ],
+            "id": "rich-text-card1739792769839",
+            "type": "RICH_TEXT_CARD",
+            "size": "large",
+            "data": {
+                "rich_text_content": "<p style=\"text-align: left\"><span style=\"font-size: 18px\">I'm Richard Hendricks, founder and CTO of Pied Piper. My journey started with a simple idea: to revolutionize data compression and create a more secure, decentralized internet. I'm driven by solving complex problems and building something that matters. At Pied Piper, we're not just coding; we're shaping the future of tech. Our team is a mix of brilliant minds, and together, we push boundaries. It's not always easy, but it's worth it. We're here to change the game, one line of code at a time. Join us.</span></p>"
+            },
+            "_id": "67b321810495ffab6a0a72e3"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    4
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    10
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                4
+            ],
+            "id": "ts-card-1739793199288",
+            "type": "TECH_STACK_CARD",
+            "size": "large",
+            "data": {
+                "title": "Tech I'm passionate about",
+                "description": "",
+                "techStackLogo": "",
+                "techStack": [
+                    {
+                        "id": 1739793086566,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/core-js.svg",
+                        "techName": "core-js"
+                    },
+                    {
+                        "id": 1739793103072,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Django REST.svg",
+                        "techName": "Django REST",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739793117302,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Cucumber.svg",
+                        "techName": "Cucumber",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739793122086,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Crystal.svg",
+                        "techName": "Crystal",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739793135362,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/CakePHP.svg",
+                        "techName": "CakePHP",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739793150537,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Astro.svg",
+                        "techName": "Astro",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739793158030,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Ruby.svg",
+                        "techName": "Ruby",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739793167457,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/React.svg",
+                        "techName": "React",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739793189948,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/GCC.svg",
+                        "techName": "GCC",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739793198115,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/F Sharp.svg",
+                        "techName": "F Sharp",
+                        "techDescription": ""
+                    }
+                ],
+                "techStackItemLogo": null,
+                "techStackItemName": "",
+                "techDescription": ""
+            },
+            "_id": "67b3232f0495ffab6a0a730e"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    4
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    15
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                4
+            ],
+            "id": "number-card-1739793578098",
+            "type": "NUMBER_CARD",
+            "size": "large",
+            "data": {
+                "title": "Number board",
+                "description": "",
+                "numberStats": [
+                    {
+                        "id": 1739793576821,
+                        "arrayName": "9+",
+                        "arrayDescription": "Years in SaaS space"
+                    },
+                    {
+                        "id": 1739793433462,
+                        "arrayName": "$5 Mn",
+                        "arrayDescription": "VC fund raised"
+                    },
+                    {
+                        "id": 1739793499968,
+                        "arrayName": "5+",
+                        "arrayDescription": "Papers on Compression"
+                    }
+                ]
+            },
+            "_id": "67b324aa0495ffab6a0a7321"
+        },
+        {
+            "position": {
+                "desktop": [
+                    4,
+                    2,
+                    2,
+                    0
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    18
+                ]
+            },
+            "widgetPositionConfig": [
+                4,
+                2,
+                2,
+                0
+            ],
+            "id": "market-card-1739794584491",
+            "type": "MARKET_CARD",
+            "size": "medium",
+            "data": {
+                "title": "Domain expertise",
+                "description": "",
+                "marketStats": [
+                    {
+                        "id": "FaChartArea",
+                        "arrayName": "Data Analytics",
+                        "arrayLogo": "FaChartArea"
+                    },
+                    {
+                        "id": "MdOutlineSecurity",
+                        "arrayName": "Cybersecurity",
+                        "arrayLogo": "MdOutlineSecurity"
+                    },
+                    {
+                        "id": "BsFillPlayCircleFill",
+                        "arrayName": "Media Streaming",
+                        "arrayLogo": "BsFillPlayCircleFill"
+                    },
+                    {
+                        "id": "LiaConnectdevelop",
+                        "arrayName": "Web3 & Blockchain",
+                        "arrayLogo": "LiaConnectdevelop"
+                    },
+                    {
+                        "id": "MdCloudSync",
+                        "arrayName": "Cloud Infrastructure",
+                        "arrayLogo": "MdCloudSync"
+                    },
+                    {
+                        "id": "FaMoneyBill",
+                        "arrayName": "Financial Services",
+                        "arrayLogo": "FaMoneyBill"
+                    },
+                    {
+                        "id": "FaRobot",
+                        "arrayName": "AI & Machine Learning",
+                        "arrayLogo": "FaRobot"
+                    }
+                ]
+            },
+            "_id": "67b328980495ffab6a0a795e"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    6
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    23
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                6
+            ],
+            "id": "text-card-1739795212378",
+            "type": "TEXT_BUBBLE_CARD",
+            "size": "large",
+            "data": {
+                "title": "Skillset",
+                "description": "",
+                "hobbies": [
+                    {
+                        "id": 1739794926440,
+                        "arrayName": "💻 Algorithm Development",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739794936478,
+                        "arrayName": "📈 Entrepreneurship",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739794941529,
+                        "arrayName": "📊 Cloud Computing",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739795199252,
+                        "arrayName": "🔨 DevOps",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739795217585,
+                        "arrayName": "🎨 User Experience (UX)",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739795232043,
+                        "arrayName": "📱 Mobile Development",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739795237545,
+                        "arrayName": "🌐 Network Engineering",
+                        "arrayDescription": ""
+                    }
+                ],
+                "arrayItemName": "",
+                "arrayItemDescription": ""
+            },
+            "_id": "67b32b0c0495ffab6a0a79e1"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    4,
+                    0,
+                    8
+                ],
+                "mobile": [
+                    1,
+                    4,
+                    0,
+                    27
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                4,
+                0,
+                8
+            ],
+            "id": "section-title-1739798505730",
+            "type": "SECTION_TITLE_CARD",
+            "size": "sectionTitle",
+            "data": {
+                "title": "🤝 Let's connect",
+                "isDefault": false
+            },
+            "_id": "67b337e90495ffab6a0a7bb4"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    9
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    0,
+                    30
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                9
+            ],
+            "id": "dp-card-1739817651245",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "large",
+            "data": {
+                "username": "",
+                "appId": "calendly",
+                "profileLink": "https://calendly.com/template"
+            },
+            "_id": "67b382b33a0edbbf6dd59d82"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    9
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    39
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                9
+            ],
+            "id": "location-card-1739817703293",
+            "type": "LOCATION_CARD",
+            "size": "large",
+            "data": {
+                "location": {
+                    "locationName": "Berlin",
+                    "latitude": 52.517037,
+                    "longitude": 13.38886,
+                    "zoom": 5
+                },
+                "title": "Based in Berlin"
+            },
+            "_id": "67b382e73a0edbbf6dd59de2"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    1,
+                    11
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    2,
+                    32
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                1,
+                11
+            ],
+            "id": "dp-card-1739817806553",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "large",
+            "data": {
+                "username": "",
+                "appId": "linkedIn",
+                "profileLink": "https://www.linkedin.com/in/satyanadella/"
+            },
+            "_id": "67b3834e3a0edbbf6dd59ef4"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    3,
+                    11
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    0,
+                    42
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                3,
+                11
+            ],
+            "id": "dp-card-1739817922576",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "small",
+            "data": {
+                "username": "",
+                "appId": "twitter",
+                "profileLink": "https://x.com/satyanadella"
+            },
+            "_id": "67b383c23a0edbbf6dd59f23"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    0,
+                    11
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    0,
+                    44
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                0,
+                11
+            ],
+            "id": "dp-card-1739818029550",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "small",
+            "data": {
+                "phoneNumber": "919999999999",
+                "appId": "whatsapp"
+            },
+            "_id": "67b3842d3a0edbbf6dd59f88"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    2,
+                    6
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    45
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                2,
+                6
+            ],
+            "id": "upload-card-1739820556655",
+            "type": "UPLOAD_CARD",
+            "size": "small",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739820556483-Black%20And%20White%20Art%20GIF%20by%20Mathew%20Lucas.gif",
+                "frame": "squared",
+                "caption": "",
+                "link": "",
+                "isPdf": false
+            },
+            "_id": "67b38e0c3a0edbbf6dd5a6ff"
+        }
+    ]
+}

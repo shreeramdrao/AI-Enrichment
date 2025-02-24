@@ -1,0 +1,903 @@
+{
+    "widgets": [
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    0,
+                    0
+                ],
+                "mobile": [
+                    1.03,
+                    2,
+                    1,
+                    0
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "id": "hero-card-1739772034180",
+            "type": "HERO_CARD",
+            "size": "heroExtraLarge",
+            "data": {
+                "coverPic": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739772769408-pexels-felixmittermeier-956981.jpg",
+                "profilePic": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739780176463-big%20picture.png",
+                "name": "Jim Halpert",
+                "jobTitle": "Senior Sales Associate",
+                "company": "",
+                "companydetail": {
+                    "companyName": "Cardtree",
+                    "companyLogo": "https://cdn.brandfetch.io/cardtree.io/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7"
+                },
+                "description": "I enjoy talking about B2B software, Productivity, Movies and Wine.",
+                "heroButtonLink": "https://cal.com/template",
+                "heroButtonName": "Book Meeting",
+                "phoneNumber": "919999999999",
+                "email": "jim@template.com"
+            },
+            "_id": "67b2d082b33ee539fc516b76"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    4,
+                    0,
+                    0
+                ],
+                "mobile": [
+                    1,
+                    4,
+                    0,
+                    1
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                4,
+                0,
+                0
+            ],
+            "id": "section-title-1739772066282",
+            "type": "SECTION_TITLE_CARD",
+            "size": "sectionTitle",
+            "data": {
+                "title": "My Portfolio at Cardtree",
+                "isDefault": false
+            },
+            "_id": "67b2d0a2b33ee539fc516b7a"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    1
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    4
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                1
+            ],
+            "id": "logos-card-1739776039322",
+            "type": "LOGOS_CARD",
+            "size": "large",
+            "data": {
+                "title": "Accounts and partners",
+                "description": "",
+                "companyLogo": "",
+                "companies": [
+                    {
+                        "id": 1739776001717,
+                        "companyLogo": "https://cdn.brandfetch.io/mgm.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "MGM Studios",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739776015608,
+                        "companyLogo": "https://cdn.brandfetch.io/universalstudioshollywood.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Universal Studios Hollywood",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739775982382,
+                        "companyLogo": "https://cdn.brandfetch.io/sony.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Sony"
+                    },
+                    {
+                        "id": 1739776031172,
+                        "companyLogo": "https://cdn.brandfetch.io/disney.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Disney",
+                        "companyDescription": ""
+                    }
+                ]
+            },
+            "_id": "67b2e0270495ffab6a0a0f1e"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    3
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    7
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                3
+            ],
+            "id": "ts-card-1739776286602",
+            "type": "TECH_STACK_CARD",
+            "size": "large",
+            "data": {
+                "title": "Tech I deploy for customers",
+                "description": "",
+                "techStackLogo": "",
+                "techStack": [
+                    {
+                        "id": 1739776209769,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Deno.svg",
+                        "techName": "Deno",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739776232492,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Blender.svg",
+                        "techName": "Blender",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739776244456,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Anaconda.svg",
+                        "techName": "Anaconda",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739776262516,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Axios.svg",
+                        "techName": "Axios",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739776274449,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Bamboo.svg",
+                        "techName": "Bamboo",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739776285595,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Bower.svg",
+                        "techName": "Bower",
+                        "techDescription": ""
+                    }
+                ]
+            },
+            "_id": "67b2e11e0495ffab6a0a0f2d"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    5
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    12
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                5
+            ],
+            "id": "number-card-1739776381071",
+            "type": "NUMBER_CARD",
+            "size": "large",
+            "data": {
+                "title": "My number board",
+                "description": "",
+                "numberStats": [
+                    {
+                        "id": 1739776349511,
+                        "arrayName": "5",
+                        "arrayDescription": "Years in Cardtree"
+                    },
+                    {
+                        "id": 1739776371441,
+                        "arrayName": "$1 Million",
+                        "arrayDescription": "Biggest Win"
+                    },
+                    {
+                        "id": 1739776380140,
+                        "arrayName": "90%",
+                        "arrayDescription": "Retention"
+                    }
+                ],
+                "arrayItemName": "",
+                "arrayItemDescription": ""
+            },
+            "_id": "67b2e17d0495ffab6a0a0f40"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    3
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    15
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                3
+            ],
+            "id": "market-card-1739776453914",
+            "type": "MARKET_CARD",
+            "size": "large",
+            "data": {
+                "title": "Domain expertise",
+                "description": "",
+                "marketStats": [
+                    {
+                        "id": "FaBroadcastTower",
+                        "arrayName": "Telecommunications",
+                        "arrayLogo": "FaBroadcastTower"
+                    },
+                    {
+                        "id": "FaBasketShopping",
+                        "arrayName": "Retail",
+                        "arrayLogo": "FaBasketShopping"
+                    },
+                    {
+                        "id": "GoLaw",
+                        "arrayName": "Legal Services",
+                        "arrayLogo": "GoLaw"
+                    },
+                    {
+                        "id": "FaBriefcaseMedical",
+                        "arrayName": "Healthtech",
+                        "arrayLogo": "FaBriefcaseMedical"
+                    },
+                    {
+                        "id": "BsCloudFill",
+                        "arrayName": "Software & SaaS",
+                        "arrayLogo": "BsCloudFill"
+                    },
+                    {
+                        "id": "GiVrHeadset",
+                        "arrayName": "Wearables",
+                        "arrayLogo": "GiVrHeadset"
+                    }
+                ]
+            },
+            "_id": "67b2e1c60495ffab6a0a0f57"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    1,
+                    7
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    20
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                1,
+                7
+            ],
+            "id": "text-card-1739777003515",
+            "type": "TEXT_BUBBLE_CARD",
+            "size": "large",
+            "data": {
+                "title": "I can help you with",
+                "description": "",
+                "hobbies": [
+                    {
+                        "id": 1739776849064,
+                        "arrayName": "✅ Brand audit",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739776839676,
+                        "arrayName": "👥 Team demos",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739776868811,
+                        "arrayName": "⭐ Onboarding",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739776917260,
+                        "arrayName": "😊 Anytime support",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739777059818,
+                        "arrayName": "📄 Commercials",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739777130651,
+                        "arrayName": "🤝 Personalized demo",
+                        "arrayDescription": ""
+                    }
+                ]
+            },
+            "_id": "67b2e3eb0495ffab6a0a0f7f"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    4,
+                    0,
+                    9
+                ],
+                "mobile": [
+                    1,
+                    4,
+                    0,
+                    24
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                4,
+                0,
+                9
+            ],
+            "id": "section-title-1739777169281",
+            "type": "SECTION_TITLE_CARD",
+            "size": "sectionTitle",
+            "data": {
+                "title": "🤝 Let's connect",
+                "isDefault": false
+            },
+            "_id": "67b2e4910495ffab6a0a1052"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    10
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    0,
+                    25
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                10
+            ],
+            "id": "dp-card-1739777230104",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "large",
+            "data": {
+                "username": "",
+                "appId": "calendly",
+                "profileLink": "https://calendly.com/template"
+            },
+            "_id": "67b2e4ce0495ffab6a0a1185"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    2,
+                    10
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    1,
+                    28
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                2,
+                10
+            ],
+            "id": "dp-card-1739777258105",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "small",
+            "data": {
+                "username": "template",
+                "appId": "twitter"
+            },
+            "_id": "67b2e4ea0495ffab6a0a11e5"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    3,
+                    10
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    0,
+                    30
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                3,
+                10
+            ],
+            "id": "dp-card-1739777275735",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "small",
+            "data": {
+                "username": "template",
+                "appId": "linkedIn"
+            },
+            "_id": "67b2e4fb0495ffab6a0a1225"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    18
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    32
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                18
+            ],
+            "id": "location-card-1739777330936",
+            "type": "LOCATION_CARD",
+            "size": "large",
+            "data": {
+                "location": {
+                    "locationName": "WeWork",
+                    "latitude": 37.788959,
+                    "longitude": -122.39840837,
+                    "zoom": 10
+                },
+                "title": "Come say Hi to us at WeWork"
+            },
+            "_id": "67b2e5330495ffab6a0a1254"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    4,
+                    0,
+                    14
+                ],
+                "mobile": [
+                    1,
+                    4,
+                    0,
+                    38
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                4,
+                0,
+                14
+            ],
+            "id": "section-title-1739777369822",
+            "type": "SECTION_TITLE_CARD",
+            "size": "sectionTitle",
+            "data": {
+                "title": "ℹ️ About Cardtree",
+                "isDefault": false
+            },
+            "_id": "67b2e5590495ffab6a0a1368"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    1
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    39
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                1
+            ],
+            "id": "rich-text-card1739777523035",
+            "type": "RICH_TEXT_CARD",
+            "size": "large",
+            "data": {
+                "rich_text_content": "<p style=\"text-align: left\"><span style=\"font-size: 18px\">Hey, I'm Jim Halpert. I've been with Cardtree for 5 years and love using tech to solve problems. I'm into marketing automation, telecom, and retail. I'm all about making our customers happy and keeping them around. I'm a tech geek at heart and love finding creative solutions. Let's chat!</span></p>"
+            },
+            "_id": "67b2e5f30495ffab6a0a1585"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    15
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    44
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                15
+            ],
+            "id": "rich-text-card1739777997398",
+            "type": "RICH_TEXT_CARD",
+            "size": "large",
+            "data": {
+                "rich_text_content": "<p style=\"text-align: left\"><span style=\"font-size: 24px\"><strong>Make your professional presence Pop</strong></span></p><p style=\"text-align: left\"><span style=\"font-size: 18px\">Cardtree is all about making your online presence awesome with modern business cards and link-in-bio pages that drive engagement. Think sleek, on-brand profiles that grab attention and make you stand out.</span></p>",
+                "rich_text_content_bg": "#EEE"
+            },
+            "_id": "67b2e7cd0495ffab6a0a1f0a"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    15
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    47
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                15
+            ],
+            "id": "link-card-1739780292269",
+            "type": "LINK_CARD",
+            "size": "large",
+            "data": {
+                "link": "https://cardtr.ee/",
+                "title": "Cardtree: Modern business card and link-in-bio",
+                "description": "Win customers’ trust and time with on-brand, modern business cards for email signatures, social bios, events, and beyond.",
+                "cardImageSource": "image_from_link",
+                "backgroundType": "glass",
+                "linkIconType": "link_fav_icon",
+                "linkFavIcon": "https://framerusercontent.com/images/1N24snscLbOFWfm22cwaQ0tbL0.svg",
+                "cardImageUrl": "https://framerusercontent.com/assets/xdrXdSLOwL4D4i2pmv3sgv4tAQ.png"
+            },
+            "_id": "67b2f0c40495ffab6a0a204d"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    4,
+                    0,
+                    12
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    52
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                4,
+                0,
+                12
+            ],
+            "id": "location-card-1739780598153",
+            "type": "LOCATION_CARD",
+            "size": "extraLarge",
+            "data": {
+                "location": {
+                    "locationName": "Dallas",
+                    "latitude": 32.781338,
+                    "longitude": -96.79976,
+                    "zoom": 3
+                },
+                "title": "I'm based out of Dallas"
+            },
+            "_id": "67b2f1f60495ffab6a0a2a7d"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    5
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    57
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                5
+            ],
+            "id": "upload-card-1739780765394",
+            "type": "UPLOAD_CARD",
+            "size": "large",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739780765191-download.gif",
+                "frame": "squared",
+                "caption": "",
+                "link": "",
+                "isPdf": false
+            },
+            "_id": "67b2f29d0495ffab6a0a2de9"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    4,
+                    0,
+                    20
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    60
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                4,
+                0,
+                20
+            ],
+            "id": "logos-card-1739781155537",
+            "type": "LOGOS_CARD",
+            "size": "extraLarge",
+            "data": {
+                "title": "Powering companies big and small",
+                "description": "",
+                "companyLogo": "",
+                "companies": [
+                    {
+                        "id": 1739780990697,
+                        "companyLogo": "https://cdn.brandfetch.io/zoho.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Zoho"
+                    },
+                    {
+                        "id": 1739780997617,
+                        "companyLogo": "https://cdn.brandfetch.io/attio.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Attio",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739781007173,
+                        "companyLogo": "https://cdn.brandfetch.io/binance.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Binance",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739781131730,
+                        "companyLogo": "https://cdn.brandfetch.io/intuit.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Intuit",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739781197455,
+                        "companyLogo": "https://cdn.brandfetch.io/oyorooms.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "OYO"
+                    },
+                    {
+                        "id": 1739781213082,
+                        "companyLogo": "https://cdn.brandfetch.io/americanexpress.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "American Express"
+                    }
+                ],
+                "companyItemCompanyLogo": null,
+                "companyItemCompanyName": "",
+                "companyItemDescription": ""
+            },
+            "_id": "67b2f4230495ffab6a0a2eed"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    18
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    65
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                18
+            ],
+            "id": "number-card-1739781356689",
+            "type": "NUMBER_CARD",
+            "size": "large",
+            "data": {
+                "title": "Cardtree's story in numbers",
+                "description": "",
+                "numberStats": [
+                    {
+                        "id": 1739781290743,
+                        "arrayName": "50,000",
+                        "arrayDescription": "Happy users"
+                    },
+                    {
+                        "id": 1739781333087,
+                        "arrayName": "7,000",
+                        "arrayDescription": "Companies use us"
+                    },
+                    {
+                        "id": 1739781355619,
+                        "arrayName": "99.996%",
+                        "arrayDescription": "Uptimes"
+                    }
+                ],
+                "arrayItemName": "",
+                "arrayItemDescription": ""
+            },
+            "_id": "67b2f4ec0495ffab6a0a30e9"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    2,
+                    0,
+                    17
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    0,
+                    68
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                2,
+                0,
+                17
+            ],
+            "id": "dp-card-1739781458322",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "wide",
+            "data": {
+                "username": "",
+                "appId": "linkedIn",
+                "profileLink": "https://www.linkedin.com/company/cardtreehq/"
+            },
+            "_id": "67b2f5520495ffab6a0a3165"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    2,
+                    2,
+                    17
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    1,
+                    70
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                2,
+                2,
+                17
+            ],
+            "id": "dp-card-1739781510521",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "wide",
+            "data": {
+                "username": "",
+                "appId": "twitter",
+                "profileLink": "https://x.com/cardtreehq"
+            },
+            "_id": "67b2f5860495ffab6a0a32be"
+        }
+    ]
+}

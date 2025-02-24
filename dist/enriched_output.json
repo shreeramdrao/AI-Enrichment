@@ -1,0 +1,624 @@
+{
+  "widgets": [
+    {
+      "position": {
+        "desktop": [
+          2,
+          1,
+          0,
+          0
+        ],
+        "mobile": [
+          1.03,
+          2,
+          1,
+          0
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        1,
+        0,
+        0
+      ],
+      "id": "hero-card-1739792131097",
+      "type": "HERO_CARD",
+      "size": "heroExtraLarge",
+      "data": {
+        "coverPic": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/samirchaudry/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=707aa0543a3ba42fc2aef4c3f9ec7e8a1b7b4ba18d3731cd98d32d07e7d0896b",
+        "profilePic": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/samirchaudry/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=604633e2826f7cdd3754365143075e6bbe5905f25c6bdd34f25254dba6221028",
+        "name": "Samir Chaudry",
+        "jobTitle": "Co-Founder & President",
+        "company": "Colin and Samir",
+        "companydetail": {
+          "companyName": "Colin and Samir",
+          "companyLogo": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/colin-and-samir/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9afd2811c091b9d51b1f5ebf42c9ede3bb8af64d2328e767650ba8abb8f0c659"
+        },
+        "description": "Samir Chaudry is the Co-Founder & President of Colin and Samir, a company focused on creating content about creators, for creators. He has a rich history in digital media, having founded The Lacrosse Network and worked as Director of Partnerships and Programming Strategy at Whistle Sports. Samir is passionate about the creator economy and helping creators scale their businesses.",
+        "heroButtonLink": "http://YouTube.com/Colinandsamir",
+        "heroButtonName": "Visit YouTube Channel",
+        "phoneNumber": "",
+        "email": ""
+      },
+      "_id": "67b31f030495ffab6a0a72a6"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          2,
+          0,
+          2
+        ],
+        "mobile": [
+          2.24,
+          4,
+          0,
+          2
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        2,
+        0,
+        2
+      ],
+      "id": "logos-card-1739792649904",
+      "type": "LOGOS_CARD",
+      "size": "large",
+      "data": {
+        "title": "Companies associated with",
+        "description": "",
+        "companyLogo": "",
+        "companies": [
+          {
+            "id": 1739792593192,
+            "companyLogo": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/colin-and-samir/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9afd2811c091b9d51b1f5ebf42c9ede3bb8af64d2328e767650ba8abb8f0c659",
+            "companyName": "Colin and Samir"
+          },
+          {
+            "id": 1739792601779,
+            "companyLogo": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/team-whistle/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4ca5a768146fdaef7592e7899302bbdc7a7def7473aa21843eba0811d11df570",
+            "companyName": "The Whistle Sports Network",
+            "companyDescription": ""
+          },
+          {
+            "id": 1739792613742,
+            "companyLogo": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/the-lacrosse-network/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=3d0353da6089c16a2e1078528044818d307aad985d8acb4f50abb0af83dae934",
+            "companyName": "The Lacrosse Network",
+            "companyDescription": ""
+          }
+        ]
+      },
+      "_id": "67b3210a0495ffab6a0a72b0"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          2,
+          0,
+          0
+        ],
+        "mobile": [
+          2.24,
+          4,
+          0,
+          7
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        2,
+        0,
+        0
+      ],
+      "id": "rich-text-card1739792769839",
+      "type": "RICH_TEXT_CARD",
+      "size": "large",
+      "data": {
+        "rich_text_content": "<p style=\"text-align: left\"><span style=\"font-size: 18px\">I'm Samir Chaudry, Co-Founder & President of Colin and Samir. My journey began with The Lacrosse Network, a digital home for lacrosse enthusiasts, which was acquired by Whistle Sports. I am passionate about the creator economy and helping creators build and scale their businesses. At Colin and Samir, we create content that empowers creators and launch projects that drive the creator economy forward. Join us on our journey to shape the future of digital content creation.</span></p>"
+      },
+      "_id": "67b321810495ffab6a0a72e3"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          2,
+          2,
+          4
+        ],
+        "mobile": [
+          2.24,
+          4,
+          0,
+          10
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        2,
+        2,
+        4
+      ],
+      "id": "ts-card-1739793199288",
+      "type": "TECH_STACK_CARD",
+      "size": "large",
+      "data": {
+        "title": "Tech I'm passionate about",
+        "description": "",
+        "techStackLogo": "",
+        "techStack": [
+          {
+            "id": 1739793086566,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/core-js.svg",
+            "techName": "core-js"
+          },
+          {
+            "id": 1739793103072,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Django REST.svg",
+            "techName": "Django REST",
+            "techDescription": ""
+          },
+          {
+            "id": 1739793117302,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Cucumber.svg",
+            "techName": "Cucumber",
+            "techDescription": ""
+          },
+          {
+            "id": 1739793122086,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Crystal.svg",
+            "techName": "Crystal",
+            "techDescription": ""
+          },
+          {
+            "id": 1739793135362,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/CakePHP.svg",
+            "techName": "CakePHP",
+            "techDescription": ""
+          },
+          {
+            "id": 1739793150537,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Astro.svg",
+            "techName": "Astro",
+            "techDescription": ""
+          },
+          {
+            "id": 1739793158030,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Ruby.svg",
+            "techName": "Ruby",
+            "techDescription": ""
+          },
+          {
+            "id": 1739793167457,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/React.svg",
+            "techName": "React",
+            "techDescription": ""
+          },
+          {
+            "id": 1739793189948,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/GCC.svg",
+            "techName": "GCC",
+            "techDescription": ""
+          },
+          {
+            "id": 1739793198115,
+            "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/F Sharp.svg",
+            "techName": "F Sharp",
+            "techDescription": ""
+          }
+        ],
+        "techStackItemLogo": null,
+        "techStackItemName": "",
+        "techDescription": ""
+      },
+      "_id": "67b3232f0495ffab6a0a730e"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          2,
+          0,
+          4
+        ],
+        "mobile": [
+          2.24,
+          4,
+          0,
+          15
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        2,
+        0,
+        4
+      ],
+      "id": "number-card-1739793578098",
+      "type": "NUMBER_CARD",
+      "size": "large",
+      "data": {
+        "title": "Number board",
+        "description": "",
+        "numberStats": [
+          {
+            "id": 1739793576821,
+            "arrayName": "11+",
+            "arrayDescription": "Years in Digital Media"
+          },
+          {
+            "id": 1739793433462,
+            "arrayName": "28772",
+            "arrayDescription": "Followers on LinkedIn"
+          },
+          {
+            "id": 1739793499968,
+            "arrayName": "3",
+            "arrayDescription": "Companies Founded"
+          }
+        ]
+      },
+      "_id": "67b324aa0495ffab6a0a7321"
+    },
+    {
+      "position": {
+        "desktop": [
+          4,
+          2,
+          2,
+          0
+        ],
+        "mobile": [
+          2.24,
+          4,
+          0,
+          18
+        ]
+      },
+      "widgetPositionConfig": [
+        4,
+        2,
+        2,
+        0
+      ],
+      "id": "market-card-1739794584491",
+      "type": "MARKET_CARD",
+      "size": "medium",
+      "data": {
+        "title": "Domain expertise",
+        "description": "",
+        "marketStats": [
+          {
+            "id": "FaChartArea",
+            "arrayName": "Digital Media",
+            "arrayLogo": "FaChartArea"
+          },
+          {
+            "id": "MdOutlineSecurity",
+            "arrayName": "Creator Economy",
+            "arrayLogo": "MdOutlineSecurity"
+          },
+          {
+            "id": "BsFillPlayCircleFill",
+            "arrayName": "Content Creation",
+            "arrayLogo": "BsFillPlayCircleFill"
+          },
+          {
+            "id": "LiaConnectdevelop",
+            "arrayName": "Audience Development",
+            "arrayLogo": "LiaConnectdevelop"
+          },
+          {
+            "id": "MdCloudSync",
+            "arrayName": "Brand Partnerships",
+            "arrayLogo": "MdCloudSync"
+          },
+          {
+            "id": "FaMoneyBill",
+            "arrayName": "Business Strategy",
+            "arrayLogo": "FaMoneyBill"
+          },
+          {
+            "id": "FaRobot",
+            "arrayName": "Digital Storytelling",
+            "arrayLogo": "FaRobot"
+          }
+        ]
+      },
+      "_id": "67b328980495ffab6a0a795e"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          2,
+          0,
+          6
+        ],
+        "mobile": [
+          2.24,
+          4,
+          0,
+          23
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        2,
+        0,
+        6
+      ],
+      "id": "text-card-1739795212378",
+      "type": "TEXT_BUBBLE_CARD",
+      "size": "large",
+      "data": {
+        "title": "Skillset",
+        "description": "",
+        "hobbies": [
+          {
+            "id": 1739794926440,
+            "arrayName": "📈 Entrepreneurship",
+            "arrayDescription": ""
+          },
+          {
+            "id": 1739794936478,
+            "arrayName": "🎥 Video Production",
+            "arrayDescription": ""
+          },
+          {
+            "id": 1739794941529,
+            "arrayName": "📝 Content Strategy",
+            "arrayDescription": ""
+          },
+          {
+            "id": 1739795199252,
+            "arrayName": "🤝 Partnership Development",
+            "arrayDescription": ""
+          },
+          {
+            "id": 1739795217585,
+            "arrayName": "📊 Audience Engagement",
+            "arrayDescription": ""
+          },
+          {
+            "id": 1739795232043,
+            "arrayName": "🌐 Digital Marketing",
+            "arrayDescription": ""
+          },
+          {
+            "id": 1739795237545,
+            "arrayName": "🎙️ Public Speaking",
+            "arrayDescription": ""
+          }
+        ],
+        "arrayItemName": "",
+        "arrayItemDescription": ""
+      },
+      "_id": "67b32b0c0495ffab6a0a79e1"
+    },
+    {
+      "position": {
+        "desktop": [
+          1,
+          4,
+          0,
+          8
+        ],
+        "mobile": [
+          1,
+          4,
+          0,
+          27
+        ]
+      },
+      "widgetPositionConfig": [
+        1,
+        4,
+        0,
+        8
+      ],
+      "id": "section-title-1739798505730",
+      "type": "SECTION_TITLE_CARD",
+      "size": "sectionTitle",
+      "data": {
+        "title": "🤝 Let's connect",
+        "isDefault": false
+      },
+      "_id": "67b337e90495ffab6a0a7bb4"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          2,
+          0,
+          9
+        ],
+        "mobile": [
+          2,
+          2,
+          0,
+          30
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        2,
+        0,
+        9
+      ],
+      "id": "dp-card-1739817651245",
+      "type": "DIGITAL_PROFILE_CARD",
+      "size": "large",
+      "data": {
+        "username": "samirchaudry",
+        "appId": "calendly",
+        "profileLink": "https://calendly.com/samirchaudry"
+      },
+      "_id": "67b382b33a0edbbf6dd59d82"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          2,
+          2,
+          9
+        ],
+        "mobile": [
+          2.24,
+          4,
+          0,
+          39
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        2,
+        2,
+        9
+      ],
+      "id": "location-card-1739817703293",
+      "type": "LOCATION_CARD",
+      "size": "large",
+      "data": {
+        "location": {
+          "locationName": "Los Angeles, California",
+          "latitude": 34.052235,
+          "longitude": -118.243683,
+          "zoom": 5
+        },
+        "title": "Based in Los Angeles, California"
+      },
+      "_id": "67b382e73a0edbbf6dd59de2"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          2,
+          1,
+          11
+        ],
+        "mobile": [
+          2,
+          2,
+          2,
+          32
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        2,
+        1,
+        11
+      ],
+      "id": "dp-card-1739817806553",
+      "type": "DIGITAL_PROFILE_CARD",
+      "size": "large",
+      "data": {
+        "username": "samirchaudry",
+        "appId": "linkedIn",
+        "profileLink": "https://www.linkedin.com/in/samirchaudry/"
+      },
+      "_id": "67b3834e3a0edbbf6dd59ef4"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          1,
+          3,
+          11
+        ],
+        "mobile": [
+          2,
+          2,
+          0,
+          42
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        1,
+        3,
+        11
+      ],
+      "id": "dp-card-1739817922576",
+      "type": "DIGITAL_PROFILE_CARD",
+      "size": "small",
+      "data": {
+        "username": "samirchaudry",
+        "appId": "twitter",
+        "profileLink": "https://twitter.com/samirchaudry"
+      },
+      "_id": "67b383c23a0edbbf6dd59f23"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          1,
+          0,
+          11
+        ],
+        "mobile": [
+          2,
+          2,
+          0,
+          44
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        1,
+        0,
+        11
+      ],
+      "id": "dp-card-1739818029550",
+      "type": "DIGITAL_PROFILE_CARD",
+      "size": "small",
+      "data": {
+        "phoneNumber": "",
+        "appId": "whatsapp"
+      },
+      "_id": "67b3842d3a0edbbf6dd59f88"
+    },
+    {
+      "position": {
+        "desktop": [
+          2,
+          1,
+          2,
+          6
+        ],
+        "mobile": [
+          2.24,
+          4,
+          0,
+          45
+        ]
+      },
+      "widgetPositionConfig": [
+        2,
+        1,
+        2,
+        6
+      ],
+      "id": "upload-card-1739820556655",
+      "type": "UPLOAD_CARD",
+      "size": "small",
+      "data": {
+        "displayPicture": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/samirchaudry/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20250214%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20250214T080402Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=604633e2826f7cdd3754365143075e6bbe5905f25c6bdd34f25254dba6221028",
+        "frame": "squared",
+        "caption": "",
+        "link": "",
+        "isPdf": false
+      },
+      "_id": "67b38e0c3a0edbbf6dd5a6ff"
+    }
+  ]
+}

@@ -1,0 +1,946 @@
+{
+    "widgets": [
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    0,
+                    0
+                ],
+                "mobile": [
+                    1.03,
+                    2,
+                    1,
+                    0
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "id": "hero-card-1739785638558",
+            "type": "HERO_CARD",
+            "size": "heroExtraLarge",
+            "data": {
+                "coverPic": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739785638359-pexels-bianca-gasparoto-834990-1752806.jpg",
+                "profilePic": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739785638561-core%20narrative%20do.png",
+                "name": "Pam Beasly",
+                "jobTitle": "Friendly neighborhood creator",
+                "company": "",
+                "companydetail": "",
+                "description": "If you want some help with animation, 3D modeling, and editing, you came to the right place",
+                "heroButtonLink": "https://cardtr.ee/",
+                "heroButtonName": "Visit store",
+                "phoneNumber": "",
+                "email": ""
+            },
+            "_id": "67b305a60495ffab6a0a4226"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    1,
+                    0
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    2
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                1,
+                0
+            ],
+            "id": "rich-text-card1739785660362",
+            "type": "RICH_TEXT_CARD",
+            "size": "large",
+            "data": {
+                "rich_text_content": "<p style=\"text-align: left\"><span style=\"font-size: 18px\">I'm Pam Beasly, a passionate animator and 3D modeler based in bustling Tokyo, Japan. With over 5 years of experience, I specialize in bringing stories to life through vivid animations and intricate 3D models. </span></p><p style=\"text-align: left\"><span style=\"font-size: 18px\">My expertise lies in blending creativity with technical precision, using industry-leading software to create engaging content for films, games, and interactive projects. I thrive on pushing the boundaries of visual storytelling, always eager to explore new techniques and share my passion with others.</span></p>",
+                "rich_text_content_bg": "#fff"
+            },
+            "_id": "67b305bc0495ffab6a0a422a"
+        },
+        {
+            "position": {
+                "desktop": [
+                    4,
+                    1,
+                    3,
+                    0
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    5
+                ]
+            },
+            "widgetPositionConfig": [
+                4,
+                1,
+                3,
+                0
+            ],
+            "id": "ts-card-1739785755072",
+            "type": "TECH_STACK_CARD",
+            "size": "tall",
+            "data": {
+                "title": "Tech stack",
+                "description": "",
+                "techStackLogo": "",
+                "techStack": [
+                    {
+                        "id": 1739785722940,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/adobe-photoshop-icon.svg",
+                        "techName": "Photoshop",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739785706199,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Blender.svg",
+                        "techName": "Blender"
+                    },
+                    {
+                        "id": 1739785735756,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/adobe-illustrator-icon.svg",
+                        "techName": "Illustrator",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739785753260,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/adobe-lightroom-icon.svg",
+                        "techName": "Lightroom",
+                        "techDescription": ""
+                    },
+                    {
+                        "id": 1739787030215,
+                        "techLogo": "https://cardtree-techstack-logos.s3.amazonaws.com/Adobe Audition",
+                        "techName": "Adobe Audition"
+                    }
+                ]
+            },
+            "_id": "67b3061b0495ffab6a0a4235"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    4,
+                    0,
+                    6
+                ],
+                "mobile": [
+                    1,
+                    4,
+                    0,
+                    11
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                4,
+                0,
+                6
+            ],
+            "id": "section-title-1739785777332",
+            "type": "SECTION_TITLE_CARD",
+            "size": "sectionTitle",
+            "data": {
+                "title": "Connect with me",
+                "isDefault": false
+            },
+            "_id": "67b306310495ffab6a0a4267"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    0,
+                    0
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    12
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                0,
+                0
+            ],
+            "id": "upload-card-1739786204197",
+            "type": "UPLOAD_CARD",
+            "size": "small",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739786204073-hi%20kitty.gif",
+                "frame": "rounded",
+                "caption": "Hi there",
+                "link": "",
+                "isPdf": false
+            },
+            "_id": "67b307dc0495ffab6a0a430a"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    2
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    14
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                2
+            ],
+            "id": "logos-card-1739786610835",
+            "type": "LOGOS_CARD",
+            "size": "large",
+            "data": {
+                "title": "Clients I handle",
+                "description": "",
+                "companyLogo": "",
+                "companies": [
+                    {
+                        "id": 1739786575841,
+                        "companyLogo": "https://cdn.brandfetch.io/figma.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Figma"
+                    },
+                    {
+                        "id": 1739786582422,
+                        "companyLogo": "https://cdn.brandfetch.io/adobe.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Adobe",
+                        "companyDescription": ""
+                    },
+                    {
+                        "id": 1739786610139,
+                        "companyLogo": "https://cdn.brandfetch.io/autodesk.com/fallback/lettermark/w/512/h/161/logo?c=1idilXf4q7FsAVOcRK7",
+                        "companyName": "Autodesk",
+                        "companyDescription": ""
+                    }
+                ]
+            },
+            "_id": "67b309730495ffab6a0a4665"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    4
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    19
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                4
+            ],
+            "id": "text-card-1739786990761",
+            "type": "TEXT_BUBBLE_CARD",
+            "size": "large",
+            "data": {
+                "title": "Skillset",
+                "description": "",
+                "hobbies": [
+                    {
+                        "id": 1739786855871,
+                        "arrayName": "🧸 Character design",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739786882639,
+                        "arrayName": "🪆 3D Modeling",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739786897796,
+                        "arrayName": "🖌️ Animation",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739786938727,
+                        "arrayName": "📝 Storyboarding",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739786961741,
+                        "arrayName": "🎭 Rigging & Skinning",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739786975517,
+                        "arrayName": "📊 Motion Graphics",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739786980474,
+                        "arrayName": "🔄 Compositing",
+                        "arrayDescription": ""
+                    },
+                    {
+                        "id": 1739786989626,
+                        "arrayName": "✨ Visual Effects",
+                        "arrayDescription": ""
+                    }
+                ],
+                "arrayItemName": "",
+                "arrayItemDescription": ""
+            },
+            "_id": "67b30aee0495ffab6a0a46a7"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    1,
+                    14
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    19
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                1,
+                14
+            ],
+            "id": "rich-text-card1739787162084",
+            "type": "RICH_TEXT_CARD",
+            "size": "large",
+            "data": {
+                "rich_text_content": "<blockquote style=\"text-align: left\"><p style=\"text-align: left\"><span style=\"font-size: 24px\">\"Pam's ability to blend technical precision with artistic vision has elevated our projects to new heights. His attention to detail is unparalleled.\"</span></p></blockquote><p style=\"text-align: left\"><span style=\"font-size: 18px\">Senior Manager, Adobe</span></p><p style=\"text-align: left\"></p><p style=\"text-align: left\"></p>",
+                "rich_text_content_bg": "#424242"
+            },
+            "_id": "67b30b9a0495ffab6a0a484c"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    2,
+                    7
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    2,
+                    22
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                2,
+                7
+            ],
+            "id": "dp-card-1739787577714",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "small",
+            "data": {
+                "username": "pambeasly",
+                "appId": "behance"
+            },
+            "_id": "67b30d390495ffab6a0a510f"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    3,
+                    7
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    0,
+                    27
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                3,
+                7
+            ],
+            "id": "dp-card-1739787611247",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "small",
+            "data": {
+                "username": "pambeasly",
+                "appId": "figma"
+            },
+            "_id": "67b30d5b0495ffab6a0a529f"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    1,
+                    7
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    0,
+                    29
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                1,
+                7
+            ],
+            "id": "dp-card-1739787628189",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "small",
+            "data": {
+                "username": "pambeasly",
+                "profileLink": "",
+                "appId": "printerest"
+            },
+            "_id": "67b30d6c0495ffab6a0a52ce"
+        },
+        {
+            "position": {
+                "desktop": [
+                    4,
+                    1,
+                    2,
+                    2
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    31
+                ]
+            },
+            "widgetPositionConfig": [
+                4,
+                1,
+                2,
+                2
+            ],
+            "id": "location-card-1739787730485",
+            "type": "LOCATION_CARD",
+            "size": "tall",
+            "data": {
+                "location": {
+                    "locationName": "Japan",
+                    "latitude": 35.766841718731456,
+                    "longitude": 139.84618438586426,
+                    "zoom": 6
+                },
+                "title": "Japan"
+            },
+            "_id": "67b30dd20495ffab6a0a534c"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    10
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    39
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                10
+            ],
+            "id": "number-card-1739788187035",
+            "type": "NUMBER_CARD",
+            "size": "large",
+            "data": {
+                "title": "My number board",
+                "description": "",
+                "numberStats": [
+                    {
+                        "id": 1739788911721,
+                        "arrayName": "9",
+                        "arrayDescription": "Years in 3D animation"
+                    },
+                    {
+                        "id": 1739788449061,
+                        "arrayName": " 95%",
+                        "arrayDescription": "Client satisfaction "
+                    },
+                    {
+                        "id": 1739788899959,
+                        "arrayName": "90+",
+                        "arrayDescription": "Projects handled"
+                    }
+                ],
+                "arrayItemName": "",
+                "arrayItemDescription": ""
+            },
+            "_id": "67b30f9b0495ffab6a0a55ba"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    0,
+                    7
+                ],
+                "mobile": [
+                    2,
+                    2,
+                    2,
+                    37
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                0,
+                7
+            ],
+            "id": "dp-card-1739788275052",
+            "type": "DIGITAL_PROFILE_CARD",
+            "size": "small",
+            "data": {
+                "username": "pambeasly",
+                "appId": "Patreon"
+            },
+            "_id": "67b30ff30495ffab6a0a56dd"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    3,
+                    4
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    41
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                3,
+                4
+            ],
+            "id": "market-card-1739788514582",
+            "type": "MARKET_CARD",
+            "size": "small",
+            "data": {
+                "title": "Industry expertise",
+                "description": "",
+                "marketStats": [
+                    {
+                        "id": "BsSunglasses",
+                        "arrayName": "Fashion & Lifestyle",
+                        "arrayLogo": "BsSunglasses"
+                    },
+                    {
+                        "id": "IoFastFoodSharp",
+                        "arrayName": "Food & Beverage",
+                        "arrayLogo": "IoFastFoodSharp"
+                    },
+                    {
+                        "id": "FaCartShopping",
+                        "arrayName": "Ecommerce",
+                        "arrayLogo": "FaCartShopping"
+                    },
+                    {
+                        "id": "FaBasketShopping",
+                        "arrayName": "Retail",
+                        "arrayLogo": "FaBasketShopping"
+                    },
+                    {
+                        "id": "BsCloudFill",
+                        "arrayName": "Software & SaaS",
+                        "arrayLogo": "BsCloudFill"
+                    }
+                ]
+            },
+            "_id": "67b310e20495ffab6a0a5890"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    4,
+                    0,
+                    9
+                ],
+                "mobile": [
+                    1,
+                    4,
+                    0,
+                    42
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                4,
+                0,
+                9
+            ],
+            "id": "section-title-1739788540889",
+            "type": "SECTION_TITLE_CARD",
+            "size": "sectionTitle",
+            "data": {
+                "title": "Project links and resources",
+                "isDefault": false
+            },
+            "_id": "67b310fd0495ffab6a0a5978"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    10
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    46
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                10
+            ],
+            "id": "link-card-1739789275780",
+            "type": "LINK_CARD",
+            "size": "large",
+            "data": {
+                "link": "https://in.pinterest.com/pin/517773288429738429/",
+                "title": "Pinterest - 3D Animation",
+                "description": "",
+                "cardImageSource": "image_from_link",
+                "backgroundType": "solid",
+                "linkIconType": "link_fav_icon",
+                "linkFavIcon": "https://s.pinimg.com/webapp/logo_transparent_144x144-3da7a67b.png",
+                "cardImageUrl": "https://i.pinimg.com/736x/8e/79/6e/8e796e9cbc23acdcd5e200dfa9e1f7e2.jpg"
+            },
+            "_id": "67b313db0495ffab6a0a62c4"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    0,
+                    12
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    51
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                0,
+                12
+            ],
+            "id": "link-card-1739789724257",
+            "type": "LINK_CARD",
+            "size": "large",
+            "data": {
+                "link": "https://dribbble.com/shots/25640619-Invizio-Invesment-Branding",
+                "title": "Invizio - Invesment Branding",
+                "description": "Invizio - Invesment Branding designed by Dipa Branding for Dipa Inhouse. Connect with them on Dribbble; the global community for designers and creative professionals.",
+                "cardImageSource": "image_from_link",
+                "backgroundType": "glass",
+                "linkIconType": "link_fav_icon",
+                "linkFavIcon": "https://cdn.dribbble.com/assets/favicon-192x192-d70ad402693bdd1a8460da7f9f3c590e817da7369c5287789ac968cf6947d214.png",
+                "cardImageUrl": "https://cdn.dribbble.com/userupload/30035203/file/still-b8d343d075b208fb46eefa95678e3ae9.png?resize=1600x1200"
+            },
+            "_id": "67b3159c0495ffab6a0a64a6"
+        },
+        {
+            "position": {
+                "desktop": [
+                    1,
+                    4,
+                    0,
+                    16
+                ],
+                "mobile": [
+                    1,
+                    4,
+                    0,
+                    50
+                ]
+            },
+            "widgetPositionConfig": [
+                1,
+                4,
+                0,
+                16
+            ],
+            "id": "section-title-1739789753802",
+            "type": "SECTION_TITLE_CARD",
+            "size": "sectionTitle",
+            "data": {
+                "title": "Portfolio Gallery",
+                "isDefault": false
+            },
+            "_id": "67b315b90495ffab6a0a653e"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    12
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    53
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                12
+            ],
+            "id": "upload-card-1739789895268",
+            "type": "UPLOAD_CARD",
+            "size": "large",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739789895221-thambnail-1739789891526.png",
+                "frame": "squared",
+                "caption": "[PDF Download] 3D Design Fundamentals",
+                "link": "",
+                "filePreviewUrl": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739789894910-3D%20Design%20Fundamentals.pdf",
+                "isPdf": true
+            },
+            "_id": "67b316470495ffab6a0a66c5"
+        },
+        {
+            "position": {
+                "desktop": [
+                    4,
+                    1,
+                    0,
+                    17
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    56
+                ]
+            },
+            "widgetPositionConfig": [
+                4,
+                1,
+                0,
+                17
+            ],
+            "id": "upload-card-1739790048260",
+            "type": "UPLOAD_CARD",
+            "size": "tall",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739790047959-d844a22f4917d1dfd772a3ebd3fa35dc.mp4",
+                "frame": "squared",
+                "caption": "",
+                "link": "",
+                "filePreviewUrl": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739790048204-thambnail-1739790043874.png",
+                "isPdf": false
+            },
+            "_id": "67b316e00495ffab6a0a6c8a"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    1,
+                    17
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    61
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                1,
+                17
+            ],
+            "id": "upload-card-1739790249897",
+            "type": "UPLOAD_CARD",
+            "size": "large",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739790249602-original-af08795f94a5da3e11f8aa2800607106.gif",
+                "frame": "squared",
+                "caption": "",
+                "link": "",
+                "isPdf": false
+            },
+            "_id": "67b317aa0495ffab6a0a6de3"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    1,
+                    19
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    66
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                1,
+                19
+            ],
+            "id": "upload-card-1739790428683",
+            "type": "UPLOAD_CARD",
+            "size": "small",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739790428556-ezgif-7fcb9041fcf01d.gif",
+                "frame": "squared",
+                "caption": "",
+                "link": "",
+                "isPdf": false
+            },
+            "_id": "67b3185c0495ffab6a0a6e3e"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    2,
+                    2,
+                    19
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    66
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                2,
+                2,
+                19
+            ],
+            "id": "upload-card-1739790544602",
+            "type": "UPLOAD_CARD",
+            "size": "large",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739790544492-pexels-mo-eid-1268975-9002742%20(1).jpg",
+                "frame": "squared",
+                "caption": "",
+                "link": "",
+                "isPdf": false
+            },
+            "_id": "67b318d00495ffab6a0a6f59"
+        },
+        {
+            "position": {
+                "desktop": [
+                    2,
+                    1,
+                    3,
+                    17
+                ],
+                "mobile": [
+                    2.24,
+                    4,
+                    0,
+                    71
+                ]
+            },
+            "widgetPositionConfig": [
+                2,
+                1,
+                3,
+                17
+            ],
+            "id": "upload-card-1739790579962",
+            "type": "UPLOAD_CARD",
+            "size": "small",
+            "data": {
+                "displayPicture": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739790579512-856996-hd_1920_1080_24fps.mp4",
+                "frame": "rounded",
+                "caption": "",
+                "link": "",
+                "filePreviewUrl": "https://cardtree-common.s3.amazonaws.com/6798bf093ae259006ca69513%2F1739790579843-thambnail-1739790576184.png",
+                "isPdf": false
+            },
+            "_id": "67b318f40495ffab6a0a6fbc"
+        }
+    ]
+}
