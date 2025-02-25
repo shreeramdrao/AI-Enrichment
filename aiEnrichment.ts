@@ -21,13 +21,13 @@ const readJsonFile = (filePath: string) => {
     }
 };
 
-// AI Enrichment Function
+// AI Enrichment Function with Streaming
 export const doAIEnrichment = async (req: Request, res: Response): Promise<Response | void> => {
     try {
         console.log("🔹 Received API request for AI enrichment");
 
         // Set the input file path (use actual file name as per your test case)
-        const inputFilePath = path.join(__dirname, "input", "MediumProfileInput.json");  // Change file as needed
+        const inputFilePath = path.join(__dirname, "input", "HighProfileInput.json"); // Change as needed
         const inputData = readJsonFile(inputFilePath);
 
         if (!inputData) {
@@ -37,7 +37,7 @@ export const doAIEnrichment = async (req: Request, res: Response): Promise<Respo
         console.log("✅ Loaded input data:", inputData);
 
         // Load the expected output format (modify file path as needed)
-        const outputTemplatePath = path.join(__dirname, "output", "quickintro.json");  // Change this to match the required template
+        const outputTemplatePath = path.join(__dirname, "output", "fullstory.json"); // Change as needed
         const outputTemplate = readJsonFile(outputTemplatePath);
 
         if (!outputTemplate) {
@@ -46,7 +46,7 @@ export const doAIEnrichment = async (req: Request, res: Response): Promise<Respo
 
         console.log("✅ Loaded output template:", outputTemplate);
 
-        // Call OpenAI API to enrich missing fields
+        // Call OpenAI API to enrich missing fields with streaming
         console.log("📜 Sending missing data to OpenAI...");
         const enrichmentPrompt = `
         You are an AI that enriches professional profiles.
@@ -68,36 +68,44 @@ export const doAIEnrichment = async (req: Request, res: Response): Promise<Respo
         Return only valid JSON.
         `;
 
-        const response = await openai.chat.completions.create({
+        // Stream response from OpenAI
+        const stream = await openai.chat.completions.create({
             model: "gpt-4o",
             messages: [{ role: "system", content: enrichmentPrompt }],
             temperature: 0.2,
+            stream: true, // Enables streaming
         });
 
-        if (!response.choices[0]?.message?.content) {
-            throw new Error("OpenAI returned an empty response.");
+        let enrichedData = "";
+
+        // Process chunks as they arrive
+        for await (const chunk of stream) {
+            const delta = chunk.choices[0]?.delta?.content; // Correct way to get streamed content
+            if (delta) {
+                enrichedData += delta;
+                process.stdout.write(delta); // Display output in real-time
+            }
         }
 
-        let rawResponse = response.choices[0]?.message?.content || "";
-        
+        console.log("\n✅ OpenAI returned enriched data.");
+
         // Extract only the JSON object from OpenAI response
-        let jsonMatch = rawResponse.match(/\{[\s\S]*\}/);  // Find JSON block
+        let jsonMatch = enrichedData.match(/\{[\s\S]*\}/); // Find JSON block
 
         if (!jsonMatch) {
-            console.error("❌ OpenAI did not return valid JSON:", rawResponse);
+            console.error("❌ OpenAI did not return valid JSON:", enrichedData);
             return res.status(500).json({ error: "AI response was not valid JSON." });
         }
 
-        let enrichedData = JSON.parse(jsonMatch[0]); // Parse only the extracted JSON
-
-        console.log("✅ OpenAI returned enriched data:", enrichedData);
+        let parsedData = JSON.parse(jsonMatch[0]); // Parse only the extracted JSON
 
         // Save enriched output to file
         const enrichedFilePath = path.join(__dirname, "enriched_output.json");
-        fs.writeFileSync(enrichedFilePath, JSON.stringify(enrichedData, null, 2), "utf8");
+        fs.writeFileSync(enrichedFilePath, JSON.stringify(parsedData, null, 2), "utf8");
         console.log("✅ AI response saved to:", enrichedFilePath);
 
-        return res.json({ message: "Enriched data saved successfully", enrichedData });
+        return res.json({ message: "Enriched data saved successfully", enrichedData: parsedData });
+
     } catch (error: any) {
         console.error("❌ Error processing request:", error.message || error);
         return res.status(500).json({ error: "Internal server error" });
